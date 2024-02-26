@@ -75,5 +75,29 @@ seeker data helps us assess the profiles and qualifications of candidates and as
 identifying the most suitable candidates for their job openings.
 
 ## Code Structure
+
+This project is organized into four major folders or repositories:
+
+1. **Recommender Systems:** This folder contains several recommender systems employed for our needs and their designs. These systems are used to recommend job offers to job seekers based on their qualifications and preferences.
+
+2. **Resume Ranking:** The `resume_ranking` folder contains the project that helps recruiters analyze candidates' resumes and select the most qualified ones. This project likely involves machine learning models to rank resumes based on their relevance to job requirements.
+
+3. **Dashboard:** The `dashboard` folder contains the files related to the interactive dashboard that provides insights and information about the candidates. This dashboard helps recruiters visualize data and make informed decisions.
+
+4. **Word2Vec Preprocessing:** This folder contains an important phase of preprocessing, which is the `word2vec` using `gensim`. In this phase, we create a database of vectors based on data related to jobs that we already have. This database of vectors is used in the recommender systems to match job seekers with suitable job offers.
+
+
 ## Results and Evaluation
-## Future Work
+
+Each system in this project is evaluated separately, and the evaluation results are discussed in their respective repositories. Below is a summary of the evaluation process for each component:
+
+1. **Recommender Systems:** The recommender systems are evaluated based on their ability to recommend relevant job offers to job seekers. Metrics such as precision, hit rate, and diversity are used to assess the performance of each recommender system.
+
+2. **Resume Ranking:** The resume ranking system is evaluated on its effectiveness in ranking resumes based on their relevance to job requirements.
+
+3. **Dashboard:** The dashboard is evaluated based on its usability and the insights it provides to recruiters. User feedback and usability tests are conducted to assess the effectiveness of the dashboard in helping recruiters make informed decisions.
+
+4. **Word2Vec Preprocessing:** The word2vec preprocessing phase is evaluated based on the quality of the word embeddings generated. Metrics such as cosine similarity and word analogy tests are used to evaluate the quality of the word embeddings.
+
+By evaluating each component separately, we can gain a comprehensive understanding of the strengths and weaknesses of each system and identify areas for improvement.
+
