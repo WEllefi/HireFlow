@@ -101,3 +101,6 @@ Each system in this project is evaluated separately, and the evaluation results 
 
 By evaluating each component separately, we can gain a comprehensive understanding of the strengths and weaknesses of each system and identify areas for improvement.
 
+# Project Overview
+
+For a comprehensive understanding of this project and the research behind it, please refer to the full report (thesis) named [Wissem_Ellefi_Thesis.pdf](WEllefi/HireFlow/Wissem_Ellefi_Thesis.pdf).
