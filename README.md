@@ -103,4 +103,4 @@ By evaluating each component separately, we can gain a comprehensive understandi
 
 # Project Overview
 
-For a comprehensive understanding of this project and the research behind it, please refer to the full report (thesis) named [Wissem_Ellefi_Thesis.pdf](WEllefi/HireFlow/Wissem_Ellefi_Thesis.pdf).
+For a comprehensive understanding of this project and the research behind it, please refer to the full report (thesis) named [Wissem_Ellefi_Thesis.pdf](HireFlow/Wissem_Ellefi_Thesis.pdf).
