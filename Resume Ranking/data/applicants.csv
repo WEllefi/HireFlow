@@ -1,0 +1,1881 @@
+﻿Applicant Id,First Name,Last Name,Category,Email,Phone Number,Applicant Gender,Applicant Age,Experience Level,Years of Experience,Resume
+1,Steven,Glenn,Data Science,Steven.Glenn@gmail.com,5557024085,female,28,Confirmed,3,"Skills * Programming Languages: Python (pandas, numpy, scipy, scikit-learn, matplotlib), Sql, Java, JavaScript/JQuery. * Machine learning: Regression, SVM, NaÃƒÆ’Ã‚Â¯ve Bayes, KNN, Random Forest, Decision Trees, Boosting techniques, Cluster Analysis, Word Embedding, Sentiment Analysis, Natural Language processing, Dimensionality reduction, Topic Modelling (LDA, NMF), PCA & Neural Nets. * Database Visualizations: Mysql, SqlServer, Cassandra, Hbase, ElasticSearch D3.js, DC.js, Plotly, kibana, matplotlib, ggplot, Tableau. * Others: Regular Expression, HTML, CSS, Angular 6, Logstash, Kafka, Python Flask, Git, Docker, computer vision - Open CV and understanding of Deep learning.Education Details _x000D_
+_x000D_
+Data Science Assurance Associate _x000D_
+_x000D_
+Data Science Assurance Associate - Ernst & Young LLP_x000D_
+Skill Details _x000D_
+JAVASCRIPT- Exprience - 24 months_x000D_
+jQuery- Exprience - 24 months_x000D_
+Python- Exprience - 24 monthsCompany Details _x000D_
+company - Ernst & Young LLP_x000D_
+description - Fraud Investigations and Dispute Services   Assurance_x000D_
+TECHNOLOGY ASSISTED REVIEW_x000D_
+TAR (Technology Assisted Review) assists in accelerating the review process and run analytics and generate reports._x000D_
+* Core member of a team helped in developing automated review platform tool from scratch for assisting E discovery domain, this tool implements predictive coding and topic modelling by automating reviews, resulting in reduced labor costs and time spent during the lawyers review._x000D_
+* Understand the end to end flow of the solution, doing research and development for classification models, predictive analysis and mining of the information present in text data. Worked on analyzing the outputs and precision monitoring for the entire tool._x000D_
+* TAR assists in predictive coding, topic modelling from the evidence by following EY standards. Developed the classifier models in order to identify ""red flags"" and fraud-related issues._x000D_
+_x000D_
+Tools & Technologies: Python, scikit-learn, tfidf, word2vec, doc2vec, cosine similarity, NaÃƒÆ’Ã‚Â¯ve Bayes, LDA, NMF for topic modelling, Vader and text blob for sentiment analysis. Matplot lib, Tableau dashboard for reporting._x000D_
+_x000D_
+MULTIPLE DATA SCIENCE AND ANALYTIC PROJECTS (USA CLIENTS)_x000D_
+TEXT ANALYTICS - MOTOR VEHICLE CUSTOMER REVIEW DATA * Received customer feedback survey data for past one year. Performed sentiment (Positive, Negative & Neutral) and time series analysis on customer comments across all 4 categories._x000D_
+* Created heat map of terms by survey category based on frequency of words * Extracted Positive and Negative words across all the Survey categories and plotted Word cloud._x000D_
+* Created customized tableau dashboards for effective reporting and visualizations._x000D_
+CHATBOT * Developed a user friendly chatbot for one of our Products which handle simple questions about hours of operation, reservation options and so on._x000D_
+* This chat bot serves entire product related questions. Giving overview of tool via QA platform and also give recommendation responses so that user question to build chain of relevant answer._x000D_
+* This too has intelligence to build the pipeline of questions as per user requirement and asks the relevant /recommended questions._x000D_
+_x000D_
+Tools & Technologies: Python, Natural language processing, NLTK, spacy, topic modelling, Sentiment analysis, Word Embedding, scikit-learn, JavaScript/JQuery, SqlServer_x000D_
+_x000D_
+INFORMATION GOVERNANCE_x000D_
+Organizations to make informed decisions about all of the information they store. The integrated Information Governance portfolio synthesizes intelligence across unstructured data sources and facilitates action to ensure organizations are best positioned to counter information risk._x000D_
+* Scan data from multiple sources of formats and parse different file formats, extract Meta data information, push results for indexing elastic search and created customized, interactive dashboards using kibana._x000D_
+* Preforming ROT Analysis on the data which give information of data which helps identify content that is either Redundant, Outdated, or Trivial._x000D_
+* Preforming full-text search analysis on elastic search with predefined methods which can tag as (PII) personally identifiable information (social security numbers, addresses, names, etc.) which frequently targeted during cyber-attacks._x000D_
+Tools & Technologies: Python, Flask, Elastic Search, Kibana_x000D_
+_x000D_
+FRAUD ANALYTIC PLATFORM_x000D_
+Fraud Analytics and investigative platform to review all red flag cases._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ FAP is a Fraud Analytics and investigative platform with inbuilt case manager and suite of Analytics for various ERP systems._x000D_
+* It can be used by clients to interrogate their Accounting systems for identifying the anomalies which can be indicators of fraud by running advanced analytics_x000D_
+Tools & Technologies: HTML, JavaScript, SqlServer, JQuery, CSS, Bootstrap, Node.js, D3.js, DC.js"
+2,Kevin,Willis,Data Science,Kevin.Willis@yahoo.com,5551625012,male,27,Junior,2,"Education Details _x000D_
+May 2013 to May 2017 B.E   UIT-RGPV_x000D_
+Data Scientist _x000D_
+_x000D_
+Data Scientist - Matelabs_x000D_
+Skill Details _x000D_
+Python- Exprience - Less than 1 year months_x000D_
+Statsmodels- Exprience - 12 months_x000D_
+AWS- Exprience - Less than 1 year months_x000D_
+Machine learning- Exprience - Less than 1 year months_x000D_
+Sklearn- Exprience - Less than 1 year months_x000D_
+Scipy- Exprience - Less than 1 year months_x000D_
+Keras- Exprience - Less than 1 year monthsCompany Details _x000D_
+company - Matelabs_x000D_
+description - ML Platform for business professionals, dummies and enthusiasts._x000D_
+60/A Koramangala 5th block,_x000D_
+Achievements/Tasks behind sukh sagar, Bengaluru,_x000D_
+India                               Developed and deployed auto preprocessing steps of machine learning mainly missing value_x000D_
+treatment, outlier detection, encoding, scaling, feature selection and dimensionality reduction._x000D_
+Deployed automated classification and regression model._x000D_
+linkedin.com/in/aditya-rathore-_x000D_
+b4600b146                           Reasearch and deployed the time series forecasting model ARIMA, SARIMAX, Holt-winter and_x000D_
+Prophet._x000D_
+Worked on meta-feature extracting problem._x000D_
+github.com/rathorology_x000D_
+Implemented a state of the art research paper on outlier detection for mixed attributes._x000D_
+company - Matelabs_x000D_
+description - "
+3,David,Ayala,Data Science,David.Ayala@gmail.com,5557885009,male,41,Senior,16,"Areas of Interest Deep Learning, Control System Design, Programming in-Python, Electric Machinery, Web Development, Analytics Technical Activities q Hindustan Aeronautics Limited, Bangalore - For 4 weeks under the guidance of Mr. Satish, Senior Engineer in the hangar of Mirage 2000 fighter aircraft Technical Skills Programming Matlab, Python and Java, LabView, Python WebFrameWork-Django, Flask, LTSPICE-intermediate Languages and and MIPOWER-intermediate, Github (GitBash), Jupyter Notebook, Xampp, MySQL-Basics, Python Software Packages Interpreters-Anaconda, Python2, Python3, Pycharm, Java IDE-Eclipse Operating Systems Windows, Ubuntu, Debian-Kali Linux Education Details _x000D_
+January 2019 B.Tech. Electrical and Electronics Engineering  Manipal Institute of Technology_x000D_
+January 2015    DEEKSHA CENTER_x000D_
+January 2013    Little Flower Public School_x000D_
+August 2000    Manipal Academy of Higher_x000D_
+DATA SCIENCE _x000D_
+_x000D_
+DATA SCIENCE AND ELECTRICAL ENTHUSIAST_x000D_
+Skill Details _x000D_
+Data Analysis- Exprience - Less than 1 year months_x000D_
+excel- Exprience - Less than 1 year months_x000D_
+Machine Learning- Exprience - Less than 1 year months_x000D_
+mathematics- Exprience - Less than 1 year months_x000D_
+Python- Exprience - Less than 1 year months_x000D_
+Matlab- Exprience - Less than 1 year months_x000D_
+Electrical Engineering- Exprience - Less than 1 year months_x000D_
+Sql- Exprience - Less than 1 year monthsCompany Details _x000D_
+company - THEMATHCOMPANY_x000D_
+description - I am currently working with a Casino based operator(name not to be disclosed) in Macau.I need to segment the customers who visit their property based on the value the patrons bring into the company.Basically prove that the segmentation can be done in much better way than the current system which they have with proper numbers to back it up.Henceforth they can implement target marketing strategy to attract their customers who add value to the business."
+4,Vanessa,Pace,Data Science,Vanessa.Pace@gmail.com,5556192325,female,22,Junior,0,"Skills ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ R ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Python ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ SAP HANA ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Tableau ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ SAP HANA SQL ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ SAP HANA PAL ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ MS SQL ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ SAP Lumira ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ C# ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Linear Programming ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Data Modelling ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Advance Analytics ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ SCM Analytics ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Retail Analytics ÃƒÂ¢Ã‚â‚¬Ã‚Â¢Social Media Analytics ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ NLP Education Details _x000D_
+January 2017 to January 2018 PGDM Business Analytics  Great Lakes Institute of Management & Illinois Institute of Technology_x000D_
+January 2013 Bachelor of Engineering Electronics and Communication Bengaluru, Karnataka New Horizon College of Engineering, Bangalore Visvesvaraya Technological University_x000D_
+Data Science Consultant _x000D_
+_x000D_
+Consultant - Deloitte USI_x000D_
+Skill Details _x000D_
+LINEAR PROGRAMMING- Exprience - 6 months_x000D_
+RETAIL- Exprience - 6 months_x000D_
+RETAIL MARKETING- Exprience - 6 months_x000D_
+SCM- Exprience - 6 months_x000D_
+SQL- Exprience - Less than 1 year months_x000D_
+Deep Learning- Exprience - Less than 1 year months_x000D_
+Machine learning- Exprience - Less than 1 year months_x000D_
+Python- Exprience - Less than 1 year months_x000D_
+R- Exprience - Less than 1 year monthsCompany Details _x000D_
+company - Deloitte USI_x000D_
+description - The project involved analysing historic deals and coming with insights to optimize future deals._x000D_
+Role: Was given raw data, carried out end to end analysis and presented insights to client._x000D_
+Key Responsibilities:_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Extract data from client systems across geographies._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Understand and build reports in tableau. Infer meaningful insights to optimize prices and find out process blockades._x000D_
+Technical Environment: R, Tableau._x000D_
+_x000D_
+Industry: Cross Industry_x000D_
+Service Area: Cross Industry - Products_x000D_
+Project Name: Handwriting recognition_x000D_
+Consultant: 3 months._x000D_
+The project involved taking handwritten images and converting them to digital text images by object detection and sentence creation._x000D_
+Role: I was developing sentence correction functionality._x000D_
+Key Responsibilities:_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Gather data large enough to capture all English words_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Train LSTM models on words._x000D_
+Technical Environment: Python._x000D_
+_x000D_
+Industry: Finance_x000D_
+Service Area: Financial Services - BI development Project Name: SWIFT_x000D_
+Consultant: 8 months._x000D_
+The project was to develop an analytics infrastructure on top of SAP S/4, it would user to view_x000D_
+financial reports to respective departments. Reporting also included forecasting expenses._x000D_
+Role: I was leading the offshore team._x000D_
+Key Responsibilities:_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Design & Develop data models for reporting._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Develop ETL for data flow_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Validate various reports._x000D_
+Technical Environment: SAP HANA, Tableau, SAP AO._x000D_
+_x000D_
+Industry: Healthcare Analytics_x000D_
+Service Area: Life Sciences - Product development Project Name: Clinical Healthcare System_x000D_
+Consultant: 2 months._x000D_
+The project was to develop an analytics infrastructure on top of Argus, it would allow users to query faster and provide advance analytics capabilities._x000D_
+Role: I was involved from design to deploy phase, performed a lot of data restructuring and built_x000D_
+models for insights._x000D_
+Key Responsibilities:_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Design & Develop data models for reporting._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Develop and deploy analytical models._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Validate various reports._x000D_
+Technical Environment: Data Modelling, SAP HANA, Tableau, NLP._x000D_
+_x000D_
+Industry: FMCG_x000D_
+Service Area: Trade & Promotion_x000D_
+Project Name: Consumption Based Planning for Flowers Foods Consultant; 8 months._x000D_
+The project involved setting up of CRM and CBP modules._x000D_
+Role: I was involved in key data decomposition activities and setting up the base for future year_x000D_
+forecast. Over the course of the project I developed various models and carried out key_x000D_
+performance improvements._x000D_
+Key Responsibilities:_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Design & Develop HANA models for decomposition._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Develop data flow for forecast._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Developed various views for reporting of Customer/Sales/Funds._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Validate various reports in BOBJ._x000D_
+Technical Environment: Data Modelling, SAP HANA, BOBJ, Time Series Forecasting._x000D_
+_x000D_
+Internal Initiative Industry: FMCG_x000D_
+Customer Segmentation and RFM analysis Consultant; 3 months._x000D_
+The initiative involved setting up of HANA-Python interface and advance analytics on Python. Over the course I had successfully segmented data into five core segments using K-means and carried out RFM analysis in Python. Also developed algorithm to categorize any new customer under the defined buckets._x000D_
+Technical Environment: Anaconda3, Python3.6, HANA SPS12_x000D_
+_x000D_
+Industry: Telecom Invoice state detection Consultant; 1 months._x000D_
+The initiative was to reduce the manual effort in verifying closed and open invoices manually, it_x000D_
+involved development to a decision tree to classify open/closed invoices. This enabled effort_x000D_
+reduction by 60%._x000D_
+Technical Environment: R, SAP PAL, SAP HANA SPS12_x000D_
+_x000D_
+Accenture Experience_x000D_
+Industry: Analytics - Cross Industry_x000D_
+In Process Analytics for SAP Senior Developer; 19 months._x000D_
+Accenture Solutions Pvt. Ltd., India_x000D_
+The project involved development of SAP analytics tool - In Process Analytics (IPA) . My role was to develop database objects and data models to provide operational insights to clients._x000D_
+Role: I have developed various Finance related KPIs and spearheaded various deployments._x000D_
+Introduced SAP Predictive analytics to reduce development time and reuse functionalities for KPIs and prepared production planning reports._x000D_
+Key Responsibilities:_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Involved in information gather phase._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Designed and implemented SAP HANA data modelling using Attribute View, Analytic View, and_x000D_
+Calculation View._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Developed various KPI's individually using complex SQL scripts in Calculation views._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Created procedures in HANA Database._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Took ownership and developed Dashboard functionality._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Involved in building data processing algorithms to be executed in R server for cluster analysis._x000D_
+Technical Environment: R, SAP HANA, T-SQL._x000D_
+Industry: Cross Industry_x000D_
+Accenture Testing Accelerator for SAP Database Developer; 21 months._x000D_
+Accenture Solutions Pvt. Ltd., India_x000D_
+Role: I have taken care of all development activities for the ATAS tool and have also completed_x000D_
+various deployments of the product._x000D_
+Apart from these activities I was also actively involved in maintenance of the database servers_x000D_
+(Production & Quality)_x000D_
+Key Responsibilities:_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Analyzing business requirements, understanding the scope, getting requirements clarified_x000D_
+interacting with business and further transform all requirements to generate attribute_x000D_
+mapping documents and reviewing mapping specification documentation_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Create / Update database objects like tables, views, stored procedures, function, and packages_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Monitored SQL Server Error Logs and Application Logs through SQL Server Agent_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Prepared Data Flow Diagrams, Entity Relationship Diagrams using UML_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Responsible for Designing, developing and Normalization of database tables_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Experience in performance tuning using SQL profiler._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Involved in QA, UAT, knowledge transfer and support activities_x000D_
+Technical Environment: SQL Server 2008/2014, Visual Studio 2010, Windows Server, Performance_x000D_
+Monitor, SQL Server Profiler, C#, PL-SQL, T-SQL."
+5,Debra,Clark,Data Science,Debra.Clark@gmail.com,5557843905,male,38,Senior,13,"Education Details _x000D_
+ MCA   YMCAUST,  Faridabad,  Haryana_x000D_
+Data Science internship _x000D_
+_x000D_
+_x000D_
+Skill Details _x000D_
+Data Structure- Exprience - Less than 1 year months_x000D_
+C- Exprience - Less than 1 year months_x000D_
+Data Analysis- Exprience - Less than 1 year months_x000D_
+Python- Exprience - Less than 1 year months_x000D_
+Core Java- Exprience - Less than 1 year months_x000D_
+Database Management- Exprience - Less than 1 year monthsCompany Details _x000D_
+company - Itechpower_x000D_
+description - "
+6,Michael,Clark,Data Science,Michael.Clark@hotmail.com,5554215205,male,32,Senior,7,"SKILLS C Basics, IOT, Python, MATLAB, Data Science, Machine Learning, HTML, Microsoft Word, Microsoft Excel, Microsoft Powerpoint. RECOGNITION Academic Secured First place in B.Tech.Education Details _x000D_
+August 2014 to May 2018 B.Tech.  Ghatkesar, Andhra Pradesh Aurora's Scientific and Technological Institute_x000D_
+June 2012 to May 2014  Secondary Education Warangal, Telangana SR Junior College_x000D_
+Data Science _x000D_
+_x000D_
+_x000D_
+Skill Details _x000D_
+MS OFFICE- Exprience - Less than 1 year months_x000D_
+C- Exprience - Less than 1 year months_x000D_
+machine learning- Exprience - Less than 1 year months_x000D_
+data science- Exprience - Less than 1 year months_x000D_
+Matlab- Exprience - Less than 1 year monthsCompany Details _x000D_
+company - _x000D_
+description - "
+7,Nicholas,Daugherty,Data Science,Nicholas.Daugherty@hotmail.com,5558403687,male,30,Senior,5,"Skills ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Python ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Tableau ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Data Visualization ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ R Studio ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Machine Learning ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Statistics IABAC Certified Data Scientist with versatile experience over 1+ years in managing business, data science consulting and leading innovation projects, bringing business ideas to working real world solutions. Being a strong advocator of augmented era, where human capabilities are enhanced by machines, Fahed is passionate about bringing business concepts in area of machine learning, AI, robotics etc., to real life solutions.Education Details _x000D_
+January 2017 B. Tech Computer Science & Engineering Mohali, Punjab Indo Global College of Engineering_x000D_
+Data Science Consultant _x000D_
+_x000D_
+Data Science Consultant - Datamites_x000D_
+Skill Details _x000D_
+MACHINE LEARNING- Exprience - 13 months_x000D_
+PYTHON- Exprience - 24 months_x000D_
+SOLUTIONS- Exprience - 24 months_x000D_
+DATA SCIENCE- Exprience - 24 months_x000D_
+DATA VISUALIZATION- Exprience - 24 months_x000D_
+Tableau- Exprience - 24 monthsCompany Details _x000D_
+company - Datamites_x000D_
+description - ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Analyzed and processed complex data sets using advanced querying, visualization and analytics tools._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Responsible for loading, extracting and validation of client data._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Worked on manipulating, cleaning & processing data using python._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Used Tableau for data visualization._x000D_
+company - Heretic Solutions Pvt Ltd_x000D_
+description - ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Worked closely with business to identify issues and used data to propose solutions for effective decision making._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Manipulating, cleansing & processing data using Python, Excel and R._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Analyzed raw data, drawing conclusions & developing recommendations._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Used machine learning tools and statistical techniques to produce solutions to problems."
+8,Michael,Shepherd,Data Science,Michael.Shepherd@yahoo.com,5558871214,male,34,Senior,9,"Education Details _x000D_
+ B.Tech   Rayat and Bahra Institute of Engineering and Biotechnology_x000D_
+Data Science _x000D_
+_x000D_
+Data Science_x000D_
+Skill Details _x000D_
+Numpy- Exprience - Less than 1 year months_x000D_
+Machine Learning- Exprience - Less than 1 year months_x000D_
+Tensorflow- Exprience - Less than 1 year months_x000D_
+Scikit- Exprience - Less than 1 year months_x000D_
+Python- Exprience - Less than 1 year months_x000D_
+GCP- Exprience - Less than 1 year months_x000D_
+Pandas- Exprience - Less than 1 year months_x000D_
+Neural Network- Exprience - Less than 1 year monthsCompany Details _x000D_
+company - Wipro_x000D_
+description - Bhawana Aggarwal_x000D_
+E-Mail:bhawana.chd@gmail.com_x000D_
+Phone: 09876971076_x000D_
+VVersatile, high-energy professional targeting challenging assignments in Machine_x000D_
+PROFILE SUMMARY_x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª An IT professional with knowledge and experience of 2 years in Wipro Technologies in Machine_x000D_
+Learning, Deep Learning, Data Science, Python, Software Development._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Skilled in managing end-to-end development and software products / projects from inception, requirement_x000D_
+specs, planning, designing, implementation, configuration and documentation._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Knowledge on Python , Machine Learning, Deep Learning, data Science, Algorithms, Neural Network,_x000D_
+NLP, GCP._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Knowledge on Python Libraries like Numpy, Pandas, Seaborn , Matplotlib, Cufflinks._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Knowledge on different algorithms in Machine learning like KNN, Decision Tree, Bias variance Trade off,_x000D_
+Support vector Machine(SVM),Logistic Regression, Neural networks._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Have knowledge on unsupervised, Supervised and reinforcement data._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Programming experience in relational platforms like MySQL,Oracle._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Have knowledge on Some programming language like C++,Java._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Experience in cloud based environment like Google Cloud._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Working on different Operating System like Linux, Ubuntu, Windows._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Good interpersonal and communication skills._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Problem solving skills with the ability to think laterally, and to think with a medium term and long term_x000D_
+perspective_x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Flexibility and an open attitude to change._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Ability to create, define and own frameworks with a strong emphasis on code reusability._x000D_
+TECHNICAL SKILLS_x000D_
+Programming Languages Python, C_x000D_
+Libraries Seaborn, Numpy, Pandas, Cufflinks, Matplotlib_x000D_
+Algorithms_x000D_
+KNN, Decision Tree, Linear regression, Logistic Regression, Neural Networks, K means clustering,_x000D_
+Tensorflow, SVM_x000D_
+Databases SQL, Oracle_x000D_
+Operating Systems Linux, Window_x000D_
+Development Environments NetBeans, Notebooks, Sublime_x000D_
+Ticketing tools Service Now, Remedy_x000D_
+Education_x000D_
+UG Education:_x000D_
+B.Tech (Computer Science) from Rayat and Bahra Institute of Engineering and Biotechnology passed with 78.4%in_x000D_
+2016._x000D_
+Schooling:_x000D_
+XII in 2012 from Moti Ram Arya Sr. Secondary School(Passed with 78.4%)_x000D_
+X in 2010 from Valley Public School (Passed with 9.4 CGPA)_x000D_
+WORK EXPERINCE_x000D_
+Title : Wipro Neural Intelligence Platform_x000D_
+Team Size : 5_x000D_
+Brief: WiproÃƒÂ¢Ã‚â‚¬Ã‚â„¢s Neural Intelligence Platform harnesses the power of automation and artificial intelligence_x000D_
+technologiesÃƒÂ¢Ã‚â‚¬Ã‚â€natural language processing (NLP), cognitive, machine learning, and analytics. The platform_x000D_
+comprises three layers: a data engagement platform that can easily access and manage multiple structured and_x000D_
+unstructured data sources; an ÃƒÂ¢Ã‚â‚¬Ã‚Å“intent assessment and reasoningÃƒÂ¢Ã‚â‚¬Ã‚Â engine that includes sentiment and predictive_x000D_
+analytics; and a deep machine learning engine that can sense, act, and learn over time. The project entailed_x000D_
+automating responses to user queries at the earliest. The Monster Bot using the power of Deep Machine Learning,_x000D_
+NLP to handle such queries. User can see the how their queries can be answered quickly like allL1 activities can be_x000D_
+eliminated._x000D_
+Entity Extractor -> This involves text extraction and NLP for fetching out important information from the text like_x000D_
+dates, names, places, contact numbers etc. This involves Regex, Bluemix NLU apiÃƒÂ¢Ã‚â‚¬Ã‚â„¢s and machine learning using_x000D_
+Tensor flow for further learning of new entities._x000D_
+Classifier ->This involves the classifications of classes, training of dataset and predicting the output using the SKLearn_x000D_
+classifier (MNB, SVM, SGD as Classifier) and SGD for the optimization to map the user queries with the best_x000D_
+suited response and make the system efficient._x000D_
+NER: A Deep Learning NER Model is trained to extract the entities from the text. Entities like Roles, Skills,_x000D_
+Organizations can be extracted from raw text. RNN(LSTM) Bidirectional model is trained for extracting such entities_x000D_
+using Keras TensorFlow framework._x000D_
+OTHER PROJECTS_x000D_
+Title : Diabetes Detection_x000D_
+Brief : Developed the software which can detect whether the person is suffering from Diabetes or not and got the third_x000D_
+prize in it._x000D_
+TRAINING AND CERTIFICATIONS_x000D_
+Title: Python Training, Machine Learning, Data Science, Deep Learning_x000D_
+Organization: Udemy, Coursera (Machine Learning, Deep Learning)_x000D_
+Personal Profile_x000D_
+FatherÃƒÂ¢Ã‚â‚¬Ã‚â„¢s Name :Mr. Tirlok Aggarwal_x000D_
+Language Known : English & Hindi_x000D_
+Marital Status :Single_x000D_
+Date of Birth(Gender):1993-12-20(YYYY-MM-DD) (F)_x000D_
+company - Wipro_x000D_
+description - Developing programs in Python._x000D_
+company - Wipro_x000D_
+description - Title : Wipro Neural Intelligence Platform_x000D_
+Team Size : 5_x000D_
+Brief: WiproÃƒÂ¢Ã‚â‚¬Ã‚â„¢s Neural Intelligence Platform harnesses the power of automation and artificial intelligence_x000D_
+technologiesÃƒÂ¢Ã‚â‚¬Ã‚â€natural language processing (NLP), cognitive, machine learning, and analytics. The platform_x000D_
+comprises three layers: a data engagement platform that can easily access and manage multiple structured and_x000D_
+unstructured data sources; an ÃƒÂ¢Ã‚â‚¬Ã‚Å“intent assessment and reasoningÃƒÂ¢Ã‚â‚¬Ã‚Â engine that includes sentiment and predictive_x000D_
+analytics; and a deep machine learning engine that can sense, act, and learn over time. The project entailed_x000D_
+automating responses to user queries at the earliest. The Monster Bot using the power of Deep Machine Learning,_x000D_
+NLP to handle such queries. User can see the how their queries can be answered quickly like allL1 activities can be_x000D_
+eliminated._x000D_
+Entity Extractor -> This involves text extraction and NLP for fetching out important information from the text like_x000D_
+dates, names, places, contact numbers etc. This involves Regex, Bluemix NLU apiÃƒÂ¢Ã‚â‚¬Ã‚â„¢s and machine learning using_x000D_
+Tensor flow for further learning of new entities._x000D_
+Classifier ->This involves the classifications of classes, training of dataset and predicting the output using the SKLearn_x000D_
+classifier (MNB, SVM, SGD as Classifier) and SGD for the optimization to map the user queries with the best_x000D_
+suited response and make the system efficient._x000D_
+NER: A Deep Learning NER Model is trained to extract the entities from the text. Entities like Roles, Skills,_x000D_
+Organizations can be extracted from raw text. RNN(LSTM) Bidirectional model is trained for extracting such entities_x000D_
+using Keras TensorFlow framework._x000D_
+company - Wipro Technologies_x000D_
+description - An IT professional with knowledge and experience of 2 years in Wipro Technologies in Machine_x000D_
+Learning, Deep Learning, Data Science, Python, Software Development._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Skilled in managing end-to-end development and software products / projects from inception, requirement_x000D_
+specs, planning, designing, implementation, configuration and documentation._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Knowledge on Python , Machine Learning, Deep Learning, data Science, Algorithms, Neural Network,_x000D_
+NLP, GCP._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Knowledge on Python Libraries like Numpy, Pandas, Seaborn , Matplotlib, Cufflinks._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Knowledge on different algorithms in Machine learning like KNN, Decision Tree, Bias variance Trade off,_x000D_
+Support vector Machine(SVM),Logistic Regression, Neural networks._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Have knowledge on unsupervised, Supervised and reinforcement data._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Programming experience in relational platforms like MySQL,Oracle._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Have knowledge on Some programming language like C++,Java._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Experience in cloud based environment like Google Cloud._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Working on different Operating System like Linux, Ubuntu, Windows._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Good interpersonal and communication skills._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Problem solving skills with the ability to think laterally, and to think with a medium term and long term_x000D_
+perspective_x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Flexibility and an open attitude to change._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Ability to create, define and own frameworks with a strong emphasis on code reusability."
+9,Sonya,Harper,Data Science,Sonya.Harper@gmail.com,5551089684,female,23,Junior,0,"Personal Skills ÃƒÂ¢Ã‚Å¾Ã‚Â¢ Ability to quickly grasp technical aspects and willingness to learn ÃƒÂ¢Ã‚Å¾Ã‚Â¢ High energy levels & Result oriented. Education Details _x000D_
+January 2018 Master of Engineering Computer Technology & Application Bhopal, Madhya Pradesh Truba Institute of Engineering & Information Technology_x000D_
+January 2010 B.E. computer science Bhopal, Madhya Pradesh RKDF Institute of Science and Technology College of Engineering_x000D_
+January 2006 Polytechnic Information Technology Vidisha, Madhya Pradesh SATI Engineering College in Vidisha_x000D_
+January 2003 M.tech Thesis Detail  BMCH School in Ganj basoda_x000D_
+Data science _x000D_
+_x000D_
+I have six month experience in Data Science. Key Skills: - Experience in Machine Learning, Deep Leaning, NLP, Python, SQL, Web Scraping Good knowledge in computer subjects and ability to update_x000D_
+Skill Details _x000D_
+Experience in Machine Learning, Deep Learning, NLP, Python, SQL, Web Crawling, HTML,CSS.- Exprience - Less than 1 year monthsCompany Details _x000D_
+company - RNT.AI Technology Solution_x000D_
+description - Text classification using Machine learning Algorithms with python._x000D_
+Practical knowledge of Deep learning algorithms such as Ãƒâ€šÃ‚Â Recurrent Neural Networks(RNN)._x000D_
+Develop custom data models and algorithms to apply to dataset_x000D_
+Experience with Python packages like Pandas, Scikit-learn, Tensor Flow, Numpy, Matplotliv, NLTK._x000D_
+Comfort with SQL, Ãƒâ€šÃ‚Â MYSQL_x000D_
+Sentiment analysis._x000D_
+Ãƒâ€šÃ‚Â Apply leave Dataset using classification technique like Tf--idf , LSA with cosine similarity using Machine learning Algorithms._x000D_
+Web crawling using Selenium web driver and Beautiful Soup with python._x000D_
+company - Life Insurance Corporation of India Bhopal_x000D_
+description - ÃƒÆ’Ã‚Â¼Ãƒâ€šÃ‚Â Explaining policy features and the benefits_x000D_
+ÃƒÆ’Ã‚Â¼ Updated knowledge of life insurance products and shared with customers"
+10,Erin,Simmons,Data Science,Erin.Simmons@gmail.com,5556303090,female,33,Senior,8,"Expertise ÃƒÂ¢Ã‚Ë†Ã‚â€™ Data and Quantitative Analysis ÃƒÂ¢Ã‚Ë†Ã‚â€™ Decision Analytics ÃƒÂ¢Ã‚Ë†Ã‚â€™ Predictive Modeling ÃƒÂ¢Ã‚Ë†Ã‚â€™ Data-Driven Personalization ÃƒÂ¢Ã‚Ë†Ã‚â€™ KPI Dashboards ÃƒÂ¢Ã‚Ë†Ã‚â€™ Big Data Queries and Interpretation ÃƒÂ¢Ã‚Ë†Ã‚â€™ Data Mining and Visualization Tools ÃƒÂ¢Ã‚Ë†Ã‚â€™ Machine Learning Algorithms ÃƒÂ¢Ã‚Ë†Ã‚â€™ Business Intelligence (BI) ÃƒÂ¢Ã‚Ë†Ã‚â€™ Research, Reports and Forecasts Education Details _x000D_
+ PGP in Data Science  Mumbai, Maharashtra Aegis School of data science & Business_x000D_
+ B.E. in Electronics & Communication Electronics & Communication Indore, Madhya Pradesh IES IPS Academy_x000D_
+Data Scientist _x000D_
+_x000D_
+Data Scientist with PR Canada_x000D_
+Skill Details _x000D_
+Algorithms- Exprience - 6 months_x000D_
+BI- Exprience - 6 months_x000D_
+Business Intelligence- Exprience - 6 months_x000D_
+Machine Learning- Exprience - 24 months_x000D_
+Visualization- Exprience - 24 months_x000D_
+spark- Exprience - 24 months_x000D_
+python- Exprience - 36 months_x000D_
+tableau- Exprience - 36 months_x000D_
+Data Analysis- Exprience - 24 monthsCompany Details _x000D_
+company - Aegis school of Data Science & Business_x000D_
+description - Mostly working on industry project for providing solution along with Teaching Appointments: Teach undergraduate and graduate-level courses in Spark and Machine Learning as an adjunct faculty member at Aegis School of Data Science, Mumbai (2017 to Present)_x000D_
+company - Aegis school of Data & Business_x000D_
+description - Data Science Intern, Nov 2015 to Jan 2016_x000D_
+_x000D_
+Furnish executive leadership team with insights, analytics, reports and recommendations enabling effective strategic planning across all business units, distribution channels and product lines._x000D_
+_x000D_
+ÃƒÂ¢Ã‚Å¾Ã‚â€ Chat Bot using AWS LEX and Tensor flow  Python_x000D_
+The goal of project creates a chat bot for an academic institution or university to handle queries related courses offered by that institute. The objective of this task is to reduce human efforts as well as reduce man made errors. Even by this companies handle their client 24x7. In this case companies are academic institutions and clients are participants or students._x000D_
+ÃƒÂ¢Ã‚Å¾Ã‚â€ Web scraping using Selenium web driver   Python_x000D_
+The task is to scrap the data from the online messaging portal in a text format and have to find the pattern form it._x000D_
+ÃƒÂ¢Ã‚Å¾Ã‚â€ Data Visualization and Data insights   Hadoop Eco System, Hive, PySpark, QlikSense_x000D_
+The goal of this project is to build a Business Solutions to a Internet Service Provider Company, like handling data which is generated per day basis, for that we have to visualize that data and find the usage pattern form it and have a generate a reports._x000D_
+ÃƒÂ¢Ã‚Å¾Ã‚â€ Image Based Fraud Detection   Microsoft Face API, PySpark, Open CV_x000D_
+The main goal of project is Recognize similarity for a face to given Database images. Face recognition is the recognizing a special face from set of different faces. Face is extracted and then compared with the database Image if that Image recognized then the person already applied for loan from somewhere else and now hiding his or her identity, this is how we are going to prevent the frauds in the initial stage itself._x000D_
+ÃƒÂ¢Ã‚Å¾Ã‚â€ Churn Analysis for Internet Service Provider   R, Python, Machine Learning, Hadoop_x000D_
+The objective is to identify the customer who is likely to churn in a given period of time; we have to pretend the customer giving incentive offers._x000D_
+ÃƒÂ¢Ã‚Å¾Ã‚â€ Sentiment Analysis   Python, NLP, Apache Spark service in IBM Bluemix._x000D_
+This project is highly emphasis on tweets from Twitter data were taken for mobile networks service provider to do a sentiment analysis and analyze whether the expressed opinion was positive, negative or neutral, capture the emotions of the tweets and comparative analysis._x000D_
+_x000D_
+Quantifiable Results:_x000D_
+ÃƒÂ¢Ã‚Ë†Ã‚â€™ Mentored 7-12 Data Science Enthusiast each year that have all since gone on to graduate school in Data Science and Business Analytics._x000D_
+ÃƒÂ¢Ã‚Ë†Ã‚â€™ Reviewed and evaluated 20-40 Research Papers on Data Science for one of the largest Data Science Conference called Data Science Congress by Aegis School of Business Mumbai._x000D_
+ÃƒÂ¢Ã‚Ë†Ã‚â€™ Heading a solution providing organization called Data Science Delivered into Aegis school of Data Science Mumbai and managed 4-5 live projects using Data Science techniques._x000D_
+ÃƒÂ¢Ã‚Ë†Ã‚â€™ Working for some social cause with the help of Data Science for Social Goods Committee, where our team developed a product called ""Let's find a missing Child"" for helping society._x000D_
+company - IBM India pvt ltd_x000D_
+description - Mostly worked on blumix and IBM Watson for Data science."
+11,Jennifer,Holt,Data Science,Jennifer.Holt@hotmail.com,5555646609,male,34,Senior,9,"Skills * Programming Languages: Python (pandas, numpy, scipy, scikit-learn, matplotlib), Sql, Java, JavaScript/JQuery. * Machine learning: Regression, SVM, NaÃƒÆ’Ã‚Â¯ve Bayes, KNN, Random Forest, Decision Trees, Boosting techniques, Cluster Analysis, Word Embedding, Sentiment Analysis, Natural Language processing, Dimensionality reduction, Topic Modelling (LDA, NMF), PCA & Neural Nets. * Database Visualizations: Mysql, SqlServer, Cassandra, Hbase, ElasticSearch D3.js, DC.js, Plotly, kibana, matplotlib, ggplot, Tableau. * Others: Regular Expression, HTML, CSS, Angular 6, Logstash, Kafka, Python Flask, Git, Docker, computer vision - Open CV and understanding of Deep learning.Education Details _x000D_
+_x000D_
+Data Science Assurance Associate _x000D_
+_x000D_
+Data Science Assurance Associate - Ernst & Young LLP_x000D_
+Skill Details _x000D_
+JAVASCRIPT- Exprience - 24 months_x000D_
+jQuery- Exprience - 24 months_x000D_
+Python- Exprience - 24 monthsCompany Details _x000D_
+company - Ernst & Young LLP_x000D_
+description - Fraud Investigations and Dispute Services   Assurance_x000D_
+TECHNOLOGY ASSISTED REVIEW_x000D_
+TAR (Technology Assisted Review) assists in accelerating the review process and run analytics and generate reports._x000D_
+* Core member of a team helped in developing automated review platform tool from scratch for assisting E discovery domain, this tool implements predictive coding and topic modelling by automating reviews, resulting in reduced labor costs and time spent during the lawyers review._x000D_
+* Understand the end to end flow of the solution, doing research and development for classification models, predictive analysis and mining of the information present in text data. Worked on analyzing the outputs and precision monitoring for the entire tool._x000D_
+* TAR assists in predictive coding, topic modelling from the evidence by following EY standards. Developed the classifier models in order to identify ""red flags"" and fraud-related issues._x000D_
+_x000D_
+Tools & Technologies: Python, scikit-learn, tfidf, word2vec, doc2vec, cosine similarity, NaÃƒÆ’Ã‚Â¯ve Bayes, LDA, NMF for topic modelling, Vader and text blob for sentiment analysis. Matplot lib, Tableau dashboard for reporting._x000D_
+_x000D_
+MULTIPLE DATA SCIENCE AND ANALYTIC PROJECTS (USA CLIENTS)_x000D_
+TEXT ANALYTICS - MOTOR VEHICLE CUSTOMER REVIEW DATA * Received customer feedback survey data for past one year. Performed sentiment (Positive, Negative & Neutral) and time series analysis on customer comments across all 4 categories._x000D_
+* Created heat map of terms by survey category based on frequency of words * Extracted Positive and Negative words across all the Survey categories and plotted Word cloud._x000D_
+* Created customized tableau dashboards for effective reporting and visualizations._x000D_
+CHATBOT * Developed a user friendly chatbot for one of our Products which handle simple questions about hours of operation, reservation options and so on._x000D_
+* This chat bot serves entire product related questions. Giving overview of tool via QA platform and also give recommendation responses so that user question to build chain of relevant answer._x000D_
+* This too has intelligence to build the pipeline of questions as per user requirement and asks the relevant /recommended questions._x000D_
+_x000D_
+Tools & Technologies: Python, Natural language processing, NLTK, spacy, topic modelling, Sentiment analysis, Word Embedding, scikit-learn, JavaScript/JQuery, SqlServer_x000D_
+_x000D_
+INFORMATION GOVERNANCE_x000D_
+Organizations to make informed decisions about all of the information they store. The integrated Information Governance portfolio synthesizes intelligence across unstructured data sources and facilitates action to ensure organizations are best positioned to counter information risk._x000D_
+* Scan data from multiple sources of formats and parse different file formats, extract Meta data information, push results for indexing elastic search and created customized, interactive dashboards using kibana._x000D_
+* Preforming ROT Analysis on the data which give information of data which helps identify content that is either Redundant, Outdated, or Trivial._x000D_
+* Preforming full-text search analysis on elastic search with predefined methods which can tag as (PII) personally identifiable information (social security numbers, addresses, names, etc.) which frequently targeted during cyber-attacks._x000D_
+Tools & Technologies: Python, Flask, Elastic Search, Kibana_x000D_
+_x000D_
+FRAUD ANALYTIC PLATFORM_x000D_
+Fraud Analytics and investigative platform to review all red flag cases._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ FAP is a Fraud Analytics and investigative platform with inbuilt case manager and suite of Analytics for various ERP systems._x000D_
+* It can be used by clients to interrogate their Accounting systems for identifying the anomalies which can be indicators of fraud by running advanced analytics_x000D_
+Tools & Technologies: HTML, JavaScript, SqlServer, JQuery, CSS, Bootstrap, Node.js, D3.js, DC.js"
+12,Nicholas,Aguilar,Data Science,Nicholas.Aguilar@gmail.com,5559652252,female,21,Junior,0,"Education Details _x000D_
+May 2013 to May 2017 B.E   UIT-RGPV_x000D_
+Data Scientist _x000D_
+_x000D_
+Data Scientist - Matelabs_x000D_
+Skill Details _x000D_
+Python- Exprience - Less than 1 year months_x000D_
+Statsmodels- Exprience - 12 months_x000D_
+AWS- Exprience - Less than 1 year months_x000D_
+Machine learning- Exprience - Less than 1 year months_x000D_
+Sklearn- Exprience - Less than 1 year months_x000D_
+Scipy- Exprience - Less than 1 year months_x000D_
+Keras- Exprience - Less than 1 year monthsCompany Details _x000D_
+company - Matelabs_x000D_
+description - ML Platform for business professionals, dummies and enthusiasts._x000D_
+60/A Koramangala 5th block,_x000D_
+Achievements/Tasks behind sukh sagar, Bengaluru,_x000D_
+India                               Developed and deployed auto preprocessing steps of machine learning mainly missing value_x000D_
+treatment, outlier detection, encoding, scaling, feature selection and dimensionality reduction._x000D_
+Deployed automated classification and regression model._x000D_
+linkedin.com/in/aditya-rathore-_x000D_
+b4600b146                           Reasearch and deployed the time series forecasting model ARIMA, SARIMAX, Holt-winter and_x000D_
+Prophet._x000D_
+Worked on meta-feature extracting problem._x000D_
+github.com/rathorology_x000D_
+Implemented a state of the art research paper on outlier detection for mixed attributes._x000D_
+company - Matelabs_x000D_
+description - "
+13,Chad,Thompson,Data Science,Chad.Thompson@hotmail.com,5554053450,male,22,Junior,0,"Areas of Interest Deep Learning, Control System Design, Programming in-Python, Electric Machinery, Web Development, Analytics Technical Activities q Hindustan Aeronautics Limited, Bangalore - For 4 weeks under the guidance of Mr. Satish, Senior Engineer in the hangar of Mirage 2000 fighter aircraft Technical Skills Programming Matlab, Python and Java, LabView, Python WebFrameWork-Django, Flask, LTSPICE-intermediate Languages and and MIPOWER-intermediate, Github (GitBash), Jupyter Notebook, Xampp, MySQL-Basics, Python Software Packages Interpreters-Anaconda, Python2, Python3, Pycharm, Java IDE-Eclipse Operating Systems Windows, Ubuntu, Debian-Kali Linux Education Details _x000D_
+January 2019 B.Tech. Electrical and Electronics Engineering  Manipal Institute of Technology_x000D_
+January 2015    DEEKSHA CENTER_x000D_
+January 2013    Little Flower Public School_x000D_
+August 2000    Manipal Academy of Higher_x000D_
+DATA SCIENCE _x000D_
+_x000D_
+DATA SCIENCE AND ELECTRICAL ENTHUSIAST_x000D_
+Skill Details _x000D_
+Data Analysis- Exprience - Less than 1 year months_x000D_
+excel- Exprience - Less than 1 year months_x000D_
+Machine Learning- Exprience - Less than 1 year months_x000D_
+mathematics- Exprience - Less than 1 year months_x000D_
+Python- Exprience - Less than 1 year months_x000D_
+Matlab- Exprience - Less than 1 year months_x000D_
+Electrical Engineering- Exprience - Less than 1 year months_x000D_
+Sql- Exprience - Less than 1 year monthsCompany Details _x000D_
+company - THEMATHCOMPANY_x000D_
+description - I am currently working with a Casino based operator(name not to be disclosed) in Macau.I need to segment the customers who visit their property based on the value the patrons bring into the company.Basically prove that the segmentation can be done in much better way than the current system which they have with proper numbers to back it up.Henceforth they can implement target marketing strategy to attract their customers who add value to the business."
+14,Brenda,Spencer,Data Science,Brenda.Spencer@yahoo.com,5554489913,male,39,Senior,14,"Skills ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ R ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Python ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ SAP HANA ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Tableau ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ SAP HANA SQL ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ SAP HANA PAL ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ MS SQL ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ SAP Lumira ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ C# ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Linear Programming ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Data Modelling ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Advance Analytics ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ SCM Analytics ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Retail Analytics ÃƒÂ¢Ã‚â‚¬Ã‚Â¢Social Media Analytics ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ NLP Education Details _x000D_
+January 2017 to January 2018 PGDM Business Analytics  Great Lakes Institute of Management & Illinois Institute of Technology_x000D_
+January 2013 Bachelor of Engineering Electronics and Communication Bengaluru, Karnataka New Horizon College of Engineering, Bangalore Visvesvaraya Technological University_x000D_
+Data Science Consultant _x000D_
+_x000D_
+Consultant - Deloitte USI_x000D_
+Skill Details _x000D_
+LINEAR PROGRAMMING- Exprience - 6 months_x000D_
+RETAIL- Exprience - 6 months_x000D_
+RETAIL MARKETING- Exprience - 6 months_x000D_
+SCM- Exprience - 6 months_x000D_
+SQL- Exprience - Less than 1 year months_x000D_
+Deep Learning- Exprience - Less than 1 year months_x000D_
+Machine learning- Exprience - Less than 1 year months_x000D_
+Python- Exprience - Less than 1 year months_x000D_
+R- Exprience - Less than 1 year monthsCompany Details _x000D_
+company - Deloitte USI_x000D_
+description - The project involved analysing historic deals and coming with insights to optimize future deals._x000D_
+Role: Was given raw data, carried out end to end analysis and presented insights to client._x000D_
+Key Responsibilities:_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Extract data from client systems across geographies._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Understand and build reports in tableau. Infer meaningful insights to optimize prices and find out process blockades._x000D_
+Technical Environment: R, Tableau._x000D_
+_x000D_
+Industry: Cross Industry_x000D_
+Service Area: Cross Industry - Products_x000D_
+Project Name: Handwriting recognition_x000D_
+Consultant: 3 months._x000D_
+The project involved taking handwritten images and converting them to digital text images by object detection and sentence creation._x000D_
+Role: I was developing sentence correction functionality._x000D_
+Key Responsibilities:_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Gather data large enough to capture all English words_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Train LSTM models on words._x000D_
+Technical Environment: Python._x000D_
+_x000D_
+Industry: Finance_x000D_
+Service Area: Financial Services - BI development Project Name: SWIFT_x000D_
+Consultant: 8 months._x000D_
+The project was to develop an analytics infrastructure on top of SAP S/4, it would user to view_x000D_
+financial reports to respective departments. Reporting also included forecasting expenses._x000D_
+Role: I was leading the offshore team._x000D_
+Key Responsibilities:_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Design & Develop data models for reporting._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Develop ETL for data flow_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Validate various reports._x000D_
+Technical Environment: SAP HANA, Tableau, SAP AO._x000D_
+_x000D_
+Industry: Healthcare Analytics_x000D_
+Service Area: Life Sciences - Product development Project Name: Clinical Healthcare System_x000D_
+Consultant: 2 months._x000D_
+The project was to develop an analytics infrastructure on top of Argus, it would allow users to query faster and provide advance analytics capabilities._x000D_
+Role: I was involved from design to deploy phase, performed a lot of data restructuring and built_x000D_
+models for insights._x000D_
+Key Responsibilities:_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Design & Develop data models for reporting._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Develop and deploy analytical models._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Validate various reports._x000D_
+Technical Environment: Data Modelling, SAP HANA, Tableau, NLP._x000D_
+_x000D_
+Industry: FMCG_x000D_
+Service Area: Trade & Promotion_x000D_
+Project Name: Consumption Based Planning for Flowers Foods Consultant; 8 months._x000D_
+The project involved setting up of CRM and CBP modules._x000D_
+Role: I was involved in key data decomposition activities and setting up the base for future year_x000D_
+forecast. Over the course of the project I developed various models and carried out key_x000D_
+performance improvements._x000D_
+Key Responsibilities:_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Design & Develop HANA models for decomposition._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Develop data flow for forecast._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Developed various views for reporting of Customer/Sales/Funds._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Validate various reports in BOBJ._x000D_
+Technical Environment: Data Modelling, SAP HANA, BOBJ, Time Series Forecasting._x000D_
+_x000D_
+Internal Initiative Industry: FMCG_x000D_
+Customer Segmentation and RFM analysis Consultant; 3 months._x000D_
+The initiative involved setting up of HANA-Python interface and advance analytics on Python. Over the course I had successfully segmented data into five core segments using K-means and carried out RFM analysis in Python. Also developed algorithm to categorize any new customer under the defined buckets._x000D_
+Technical Environment: Anaconda3, Python3.6, HANA SPS12_x000D_
+_x000D_
+Industry: Telecom Invoice state detection Consultant; 1 months._x000D_
+The initiative was to reduce the manual effort in verifying closed and open invoices manually, it_x000D_
+involved development to a decision tree to classify open/closed invoices. This enabled effort_x000D_
+reduction by 60%._x000D_
+Technical Environment: R, SAP PAL, SAP HANA SPS12_x000D_
+_x000D_
+Accenture Experience_x000D_
+Industry: Analytics - Cross Industry_x000D_
+In Process Analytics for SAP Senior Developer; 19 months._x000D_
+Accenture Solutions Pvt. Ltd., India_x000D_
+The project involved development of SAP analytics tool - In Process Analytics (IPA) . My role was to develop database objects and data models to provide operational insights to clients._x000D_
+Role: I have developed various Finance related KPIs and spearheaded various deployments._x000D_
+Introduced SAP Predictive analytics to reduce development time and reuse functionalities for KPIs and prepared production planning reports._x000D_
+Key Responsibilities:_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Involved in information gather phase._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Designed and implemented SAP HANA data modelling using Attribute View, Analytic View, and_x000D_
+Calculation View._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Developed various KPI's individually using complex SQL scripts in Calculation views._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Created procedures in HANA Database._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Took ownership and developed Dashboard functionality._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Involved in building data processing algorithms to be executed in R server for cluster analysis._x000D_
+Technical Environment: R, SAP HANA, T-SQL._x000D_
+Industry: Cross Industry_x000D_
+Accenture Testing Accelerator for SAP Database Developer; 21 months._x000D_
+Accenture Solutions Pvt. Ltd., India_x000D_
+Role: I have taken care of all development activities for the ATAS tool and have also completed_x000D_
+various deployments of the product._x000D_
+Apart from these activities I was also actively involved in maintenance of the database servers_x000D_
+(Production & Quality)_x000D_
+Key Responsibilities:_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Analyzing business requirements, understanding the scope, getting requirements clarified_x000D_
+interacting with business and further transform all requirements to generate attribute_x000D_
+mapping documents and reviewing mapping specification documentation_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Create / Update database objects like tables, views, stored procedures, function, and packages_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Monitored SQL Server Error Logs and Application Logs through SQL Server Agent_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Prepared Data Flow Diagrams, Entity Relationship Diagrams using UML_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Responsible for Designing, developing and Normalization of database tables_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Experience in performance tuning using SQL profiler._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Involved in QA, UAT, knowledge transfer and support activities_x000D_
+Technical Environment: SQL Server 2008/2014, Visual Studio 2010, Windows Server, Performance_x000D_
+Monitor, SQL Server Profiler, C#, PL-SQL, T-SQL."
+15,John,Nicholson,Data Science,John.Nicholson@hotmail.com,5557705164,male,33,Senior,8,"Education Details _x000D_
+ MCA   YMCAUST,  Faridabad,  Haryana_x000D_
+Data Science internship _x000D_
+_x000D_
+_x000D_
+Skill Details _x000D_
+Data Structure- Exprience - Less than 1 year months_x000D_
+C- Exprience - Less than 1 year months_x000D_
+Data Analysis- Exprience - Less than 1 year months_x000D_
+Python- Exprience - Less than 1 year months_x000D_
+Core Java- Exprience - Less than 1 year months_x000D_
+Database Management- Exprience - Less than 1 year monthsCompany Details _x000D_
+company - Itechpower_x000D_
+description - "
+16,Paul,Martin,Data Science,Paul.Martin@hotmail.com,5558690149,male,24,Junior,0,"SKILLS C Basics, IOT, Python, MATLAB, Data Science, Machine Learning, HTML, Microsoft Word, Microsoft Excel, Microsoft Powerpoint. RECOGNITION Academic Secured First place in B.Tech.Education Details _x000D_
+August 2014 to May 2018 B.Tech.  Ghatkesar, Andhra Pradesh Aurora's Scientific and Technological Institute_x000D_
+June 2012 to May 2014  Secondary Education Warangal, Telangana SR Junior College_x000D_
+Data Science _x000D_
+_x000D_
+_x000D_
+Skill Details _x000D_
+MS OFFICE- Exprience - Less than 1 year months_x000D_
+C- Exprience - Less than 1 year months_x000D_
+machine learning- Exprience - Less than 1 year months_x000D_
+data science- Exprience - Less than 1 year months_x000D_
+Matlab- Exprience - Less than 1 year monthsCompany Details _x000D_
+company - _x000D_
+description - "
+17,Kimberly,Lambert,Data Science,Kimberly.Lambert@gmail.com,5558414066,male,24,Junior,0,"Skills ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Python ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Tableau ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Data Visualization ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ R Studio ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Machine Learning ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Statistics IABAC Certified Data Scientist with versatile experience over 1+ years in managing business, data science consulting and leading innovation projects, bringing business ideas to working real world solutions. Being a strong advocator of augmented era, where human capabilities are enhanced by machines, Fahed is passionate about bringing business concepts in area of machine learning, AI, robotics etc., to real life solutions.Education Details _x000D_
+January 2017 B. Tech Computer Science & Engineering Mohali, Punjab Indo Global College of Engineering_x000D_
+Data Science Consultant _x000D_
+_x000D_
+Data Science Consultant - Datamites_x000D_
+Skill Details _x000D_
+MACHINE LEARNING- Exprience - 13 months_x000D_
+PYTHON- Exprience - 24 months_x000D_
+SOLUTIONS- Exprience - 24 months_x000D_
+DATA SCIENCE- Exprience - 24 months_x000D_
+DATA VISUALIZATION- Exprience - 24 months_x000D_
+Tableau- Exprience - 24 monthsCompany Details _x000D_
+company - Datamites_x000D_
+description - ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Analyzed and processed complex data sets using advanced querying, visualization and analytics tools._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Responsible for loading, extracting and validation of client data._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Worked on manipulating, cleaning & processing data using python._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Used Tableau for data visualization._x000D_
+company - Heretic Solutions Pvt Ltd_x000D_
+description - ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Worked closely with business to identify issues and used data to propose solutions for effective decision making._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Manipulating, cleansing & processing data using Python, Excel and R._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Analyzed raw data, drawing conclusions & developing recommendations._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Used machine learning tools and statistical techniques to produce solutions to problems."
+18,Mark,Garrett,Data Science,Mark.Garrett@hotmail.com,5553723764,male,31,Senior,6,"Education Details _x000D_
+ B.Tech   Rayat and Bahra Institute of Engineering and Biotechnology_x000D_
+Data Science _x000D_
+_x000D_
+Data Science_x000D_
+Skill Details _x000D_
+Numpy- Exprience - Less than 1 year months_x000D_
+Machine Learning- Exprience - Less than 1 year months_x000D_
+Tensorflow- Exprience - Less than 1 year months_x000D_
+Scikit- Exprience - Less than 1 year months_x000D_
+Python- Exprience - Less than 1 year months_x000D_
+GCP- Exprience - Less than 1 year months_x000D_
+Pandas- Exprience - Less than 1 year months_x000D_
+Neural Network- Exprience - Less than 1 year monthsCompany Details _x000D_
+company - Wipro_x000D_
+description - Bhawana Aggarwal_x000D_
+E-Mail:bhawana.chd@gmail.com_x000D_
+Phone: 09876971076_x000D_
+VVersatile, high-energy professional targeting challenging assignments in Machine_x000D_
+PROFILE SUMMARY_x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª An IT professional with knowledge and experience of 2 years in Wipro Technologies in Machine_x000D_
+Learning, Deep Learning, Data Science, Python, Software Development._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Skilled in managing end-to-end development and software products / projects from inception, requirement_x000D_
+specs, planning, designing, implementation, configuration and documentation._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Knowledge on Python , Machine Learning, Deep Learning, data Science, Algorithms, Neural Network,_x000D_
+NLP, GCP._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Knowledge on Python Libraries like Numpy, Pandas, Seaborn , Matplotlib, Cufflinks._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Knowledge on different algorithms in Machine learning like KNN, Decision Tree, Bias variance Trade off,_x000D_
+Support vector Machine(SVM),Logistic Regression, Neural networks._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Have knowledge on unsupervised, Supervised and reinforcement data._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Programming experience in relational platforms like MySQL,Oracle._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Have knowledge on Some programming language like C++,Java._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Experience in cloud based environment like Google Cloud._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Working on different Operating System like Linux, Ubuntu, Windows._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Good interpersonal and communication skills._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Problem solving skills with the ability to think laterally, and to think with a medium term and long term_x000D_
+perspective_x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Flexibility and an open attitude to change._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Ability to create, define and own frameworks with a strong emphasis on code reusability._x000D_
+TECHNICAL SKILLS_x000D_
+Programming Languages Python, C_x000D_
+Libraries Seaborn, Numpy, Pandas, Cufflinks, Matplotlib_x000D_
+Algorithms_x000D_
+KNN, Decision Tree, Linear regression, Logistic Regression, Neural Networks, K means clustering,_x000D_
+Tensorflow, SVM_x000D_
+Databases SQL, Oracle_x000D_
+Operating Systems Linux, Window_x000D_
+Development Environments NetBeans, Notebooks, Sublime_x000D_
+Ticketing tools Service Now, Remedy_x000D_
+Education_x000D_
+UG Education:_x000D_
+B.Tech (Computer Science) from Rayat and Bahra Institute of Engineering and Biotechnology passed with 78.4%in_x000D_
+2016._x000D_
+Schooling:_x000D_
+XII in 2012 from Moti Ram Arya Sr. Secondary School(Passed with 78.4%)_x000D_
+X in 2010 from Valley Public School (Passed with 9.4 CGPA)_x000D_
+WORK EXPERINCE_x000D_
+Title : Wipro Neural Intelligence Platform_x000D_
+Team Size : 5_x000D_
+Brief: WiproÃƒÂ¢Ã‚â‚¬Ã‚â„¢s Neural Intelligence Platform harnesses the power of automation and artificial intelligence_x000D_
+technologiesÃƒÂ¢Ã‚â‚¬Ã‚â€natural language processing (NLP), cognitive, machine learning, and analytics. The platform_x000D_
+comprises three layers: a data engagement platform that can easily access and manage multiple structured and_x000D_
+unstructured data sources; an ÃƒÂ¢Ã‚â‚¬Ã‚Å“intent assessment and reasoningÃƒÂ¢Ã‚â‚¬Ã‚Â engine that includes sentiment and predictive_x000D_
+analytics; and a deep machine learning engine that can sense, act, and learn over time. The project entailed_x000D_
+automating responses to user queries at the earliest. The Monster Bot using the power of Deep Machine Learning,_x000D_
+NLP to handle such queries. User can see the how their queries can be answered quickly like allL1 activities can be_x000D_
+eliminated._x000D_
+Entity Extractor -> This involves text extraction and NLP for fetching out important information from the text like_x000D_
+dates, names, places, contact numbers etc. This involves Regex, Bluemix NLU apiÃƒÂ¢Ã‚â‚¬Ã‚â„¢s and machine learning using_x000D_
+Tensor flow for further learning of new entities._x000D_
+Classifier ->This involves the classifications of classes, training of dataset and predicting the output using the SKLearn_x000D_
+classifier (MNB, SVM, SGD as Classifier) and SGD for the optimization to map the user queries with the best_x000D_
+suited response and make the system efficient._x000D_
+NER: A Deep Learning NER Model is trained to extract the entities from the text. Entities like Roles, Skills,_x000D_
+Organizations can be extracted from raw text. RNN(LSTM) Bidirectional model is trained for extracting such entities_x000D_
+using Keras TensorFlow framework._x000D_
+OTHER PROJECTS_x000D_
+Title : Diabetes Detection_x000D_
+Brief : Developed the software which can detect whether the person is suffering from Diabetes or not and got the third_x000D_
+prize in it._x000D_
+TRAINING AND CERTIFICATIONS_x000D_
+Title: Python Training, Machine Learning, Data Science, Deep Learning_x000D_
+Organization: Udemy, Coursera (Machine Learning, Deep Learning)_x000D_
+Personal Profile_x000D_
+FatherÃƒÂ¢Ã‚â‚¬Ã‚â„¢s Name :Mr. Tirlok Aggarwal_x000D_
+Language Known : English & Hindi_x000D_
+Marital Status :Single_x000D_
+Date of Birth(Gender):1993-12-20(YYYY-MM-DD) (F)_x000D_
+company - Wipro_x000D_
+description - Developing programs in Python._x000D_
+company - Wipro_x000D_
+description - Title : Wipro Neural Intelligence Platform_x000D_
+Team Size : 5_x000D_
+Brief: WiproÃƒÂ¢Ã‚â‚¬Ã‚â„¢s Neural Intelligence Platform harnesses the power of automation and artificial intelligence_x000D_
+technologiesÃƒÂ¢Ã‚â‚¬Ã‚â€natural language processing (NLP), cognitive, machine learning, and analytics. The platform_x000D_
+comprises three layers: a data engagement platform that can easily access and manage multiple structured and_x000D_
+unstructured data sources; an ÃƒÂ¢Ã‚â‚¬Ã‚Å“intent assessment and reasoningÃƒÂ¢Ã‚â‚¬Ã‚Â engine that includes sentiment and predictive_x000D_
+analytics; and a deep machine learning engine that can sense, act, and learn over time. The project entailed_x000D_
+automating responses to user queries at the earliest. The Monster Bot using the power of Deep Machine Learning,_x000D_
+NLP to handle such queries. User can see the how their queries can be answered quickly like allL1 activities can be_x000D_
+eliminated._x000D_
+Entity Extractor -> This involves text extraction and NLP for fetching out important information from the text like_x000D_
+dates, names, places, contact numbers etc. This involves Regex, Bluemix NLU apiÃƒÂ¢Ã‚â‚¬Ã‚â„¢s and machine learning using_x000D_
+Tensor flow for further learning of new entities._x000D_
+Classifier ->This involves the classifications of classes, training of dataset and predicting the output using the SKLearn_x000D_
+classifier (MNB, SVM, SGD as Classifier) and SGD for the optimization to map the user queries with the best_x000D_
+suited response and make the system efficient._x000D_
+NER: A Deep Learning NER Model is trained to extract the entities from the text. Entities like Roles, Skills,_x000D_
+Organizations can be extracted from raw text. RNN(LSTM) Bidirectional model is trained for extracting such entities_x000D_
+using Keras TensorFlow framework._x000D_
+company - Wipro Technologies_x000D_
+description - An IT professional with knowledge and experience of 2 years in Wipro Technologies in Machine_x000D_
+Learning, Deep Learning, Data Science, Python, Software Development._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Skilled in managing end-to-end development and software products / projects from inception, requirement_x000D_
+specs, planning, designing, implementation, configuration and documentation._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Knowledge on Python , Machine Learning, Deep Learning, data Science, Algorithms, Neural Network,_x000D_
+NLP, GCP._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Knowledge on Python Libraries like Numpy, Pandas, Seaborn , Matplotlib, Cufflinks._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Knowledge on different algorithms in Machine learning like KNN, Decision Tree, Bias variance Trade off,_x000D_
+Support vector Machine(SVM),Logistic Regression, Neural networks._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Have knowledge on unsupervised, Supervised and reinforcement data._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Programming experience in relational platforms like MySQL,Oracle._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Have knowledge on Some programming language like C++,Java._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Experience in cloud based environment like Google Cloud._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Working on different Operating System like Linux, Ubuntu, Windows._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Good interpersonal and communication skills._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Problem solving skills with the ability to think laterally, and to think with a medium term and long term_x000D_
+perspective_x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Flexibility and an open attitude to change._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Ability to create, define and own frameworks with a strong emphasis on code reusability."
+19,Randy,Williams,Data Science,Randy.Williams@gmail.com,5556555642,female,28,Confirmed,3,"Personal Skills ÃƒÂ¢Ã‚Å¾Ã‚Â¢ Ability to quickly grasp technical aspects and willingness to learn ÃƒÂ¢Ã‚Å¾Ã‚Â¢ High energy levels & Result oriented. Education Details _x000D_
+January 2018 Master of Engineering Computer Technology & Application Bhopal, Madhya Pradesh Truba Institute of Engineering & Information Technology_x000D_
+January 2010 B.E. computer science Bhopal, Madhya Pradesh RKDF Institute of Science and Technology College of Engineering_x000D_
+January 2006 Polytechnic Information Technology Vidisha, Madhya Pradesh SATI Engineering College in Vidisha_x000D_
+January 2003 M.tech Thesis Detail  BMCH School in Ganj basoda_x000D_
+Data science _x000D_
+_x000D_
+I have six month experience in Data Science. Key Skills: - Experience in Machine Learning, Deep Leaning, NLP, Python, SQL, Web Scraping Good knowledge in computer subjects and ability to update_x000D_
+Skill Details _x000D_
+Experience in Machine Learning, Deep Learning, NLP, Python, SQL, Web Crawling, HTML,CSS.- Exprience - Less than 1 year monthsCompany Details _x000D_
+company - RNT.AI Technology Solution_x000D_
+description - Text classification using Machine learning Algorithms with python._x000D_
+Practical knowledge of Deep learning algorithms such as Ãƒâ€šÃ‚Â Recurrent Neural Networks(RNN)._x000D_
+Develop custom data models and algorithms to apply to dataset_x000D_
+Experience with Python packages like Pandas, Scikit-learn, Tensor Flow, Numpy, Matplotliv, NLTK._x000D_
+Comfort with SQL, Ãƒâ€šÃ‚Â MYSQL_x000D_
+Sentiment analysis._x000D_
+Ãƒâ€šÃ‚Â Apply leave Dataset using classification technique like Tf--idf , LSA with cosine similarity using Machine learning Algorithms._x000D_
+Web crawling using Selenium web driver and Beautiful Soup with python._x000D_
+company - Life Insurance Corporation of India Bhopal_x000D_
+description - ÃƒÆ’Ã‚Â¼Ãƒâ€šÃ‚Â Explaining policy features and the benefits_x000D_
+ÃƒÆ’Ã‚Â¼ Updated knowledge of life insurance products and shared with customers"
+20,Joshua,Rogers,Data Science,Joshua.Rogers@yahoo.com,5555456544,female,24,Junior,0,"Expertise ÃƒÂ¢Ã‚Ë†Ã‚â€™ Data and Quantitative Analysis ÃƒÂ¢Ã‚Ë†Ã‚â€™ Decision Analytics ÃƒÂ¢Ã‚Ë†Ã‚â€™ Predictive Modeling ÃƒÂ¢Ã‚Ë†Ã‚â€™ Data-Driven Personalization ÃƒÂ¢Ã‚Ë†Ã‚â€™ KPI Dashboards ÃƒÂ¢Ã‚Ë†Ã‚â€™ Big Data Queries and Interpretation ÃƒÂ¢Ã‚Ë†Ã‚â€™ Data Mining and Visualization Tools ÃƒÂ¢Ã‚Ë†Ã‚â€™ Machine Learning Algorithms ÃƒÂ¢Ã‚Ë†Ã‚â€™ Business Intelligence (BI) ÃƒÂ¢Ã‚Ë†Ã‚â€™ Research, Reports and Forecasts Education Details _x000D_
+ PGP in Data Science  Mumbai, Maharashtra Aegis School of data science & Business_x000D_
+ B.E. in Electronics & Communication Electronics & Communication Indore, Madhya Pradesh IES IPS Academy_x000D_
+Data Scientist _x000D_
+_x000D_
+Data Scientist with PR Canada_x000D_
+Skill Details _x000D_
+Algorithms- Exprience - 6 months_x000D_
+BI- Exprience - 6 months_x000D_
+Business Intelligence- Exprience - 6 months_x000D_
+Machine Learning- Exprience - 24 months_x000D_
+Visualization- Exprience - 24 months_x000D_
+spark- Exprience - 24 months_x000D_
+python- Exprience - 36 months_x000D_
+tableau- Exprience - 36 months_x000D_
+Data Analysis- Exprience - 24 monthsCompany Details _x000D_
+company - Aegis school of Data Science & Business_x000D_
+description - Mostly working on industry project for providing solution along with Teaching Appointments: Teach undergraduate and graduate-level courses in Spark and Machine Learning as an adjunct faculty member at Aegis School of Data Science, Mumbai (2017 to Present)_x000D_
+company - Aegis school of Data & Business_x000D_
+description - Data Science Intern, Nov 2015 to Jan 2016_x000D_
+_x000D_
+Furnish executive leadership team with insights, analytics, reports and recommendations enabling effective strategic planning across all business units, distribution channels and product lines._x000D_
+_x000D_
+ÃƒÂ¢Ã‚Å¾Ã‚â€ Chat Bot using AWS LEX and Tensor flow  Python_x000D_
+The goal of project creates a chat bot for an academic institution or university to handle queries related courses offered by that institute. The objective of this task is to reduce human efforts as well as reduce man made errors. Even by this companies handle their client 24x7. In this case companies are academic institutions and clients are participants or students._x000D_
+ÃƒÂ¢Ã‚Å¾Ã‚â€ Web scraping using Selenium web driver   Python_x000D_
+The task is to scrap the data from the online messaging portal in a text format and have to find the pattern form it._x000D_
+ÃƒÂ¢Ã‚Å¾Ã‚â€ Data Visualization and Data insights   Hadoop Eco System, Hive, PySpark, QlikSense_x000D_
+The goal of this project is to build a Business Solutions to a Internet Service Provider Company, like handling data which is generated per day basis, for that we have to visualize that data and find the usage pattern form it and have a generate a reports._x000D_
+ÃƒÂ¢Ã‚Å¾Ã‚â€ Image Based Fraud Detection   Microsoft Face API, PySpark, Open CV_x000D_
+The main goal of project is Recognize similarity for a face to given Database images. Face recognition is the recognizing a special face from set of different faces. Face is extracted and then compared with the database Image if that Image recognized then the person already applied for loan from somewhere else and now hiding his or her identity, this is how we are going to prevent the frauds in the initial stage itself._x000D_
+ÃƒÂ¢Ã‚Å¾Ã‚â€ Churn Analysis for Internet Service Provider   R, Python, Machine Learning, Hadoop_x000D_
+The objective is to identify the customer who is likely to churn in a given period of time; we have to pretend the customer giving incentive offers._x000D_
+ÃƒÂ¢Ã‚Å¾Ã‚â€ Sentiment Analysis   Python, NLP, Apache Spark service in IBM Bluemix._x000D_
+This project is highly emphasis on tweets from Twitter data were taken for mobile networks service provider to do a sentiment analysis and analyze whether the expressed opinion was positive, negative or neutral, capture the emotions of the tweets and comparative analysis._x000D_
+_x000D_
+Quantifiable Results:_x000D_
+ÃƒÂ¢Ã‚Ë†Ã‚â€™ Mentored 7-12 Data Science Enthusiast each year that have all since gone on to graduate school in Data Science and Business Analytics._x000D_
+ÃƒÂ¢Ã‚Ë†Ã‚â€™ Reviewed and evaluated 20-40 Research Papers on Data Science for one of the largest Data Science Conference called Data Science Congress by Aegis School of Business Mumbai._x000D_
+ÃƒÂ¢Ã‚Ë†Ã‚â€™ Heading a solution providing organization called Data Science Delivered into Aegis school of Data Science Mumbai and managed 4-5 live projects using Data Science techniques._x000D_
+ÃƒÂ¢Ã‚Ë†Ã‚â€™ Working for some social cause with the help of Data Science for Social Goods Committee, where our team developed a product called ""Let's find a missing Child"" for helping society._x000D_
+company - IBM India pvt ltd_x000D_
+description - Mostly worked on blumix and IBM Watson for Data science."
+21,Michele,Christian,Data Science,Michele.Christian@gmail.com,5554768590,male,31,Senior,6,"Skills * Programming Languages: Python (pandas, numpy, scipy, scikit-learn, matplotlib), Sql, Java, JavaScript/JQuery. * Machine learning: Regression, SVM, NaÃƒÆ’Ã‚Â¯ve Bayes, KNN, Random Forest, Decision Trees, Boosting techniques, Cluster Analysis, Word Embedding, Sentiment Analysis, Natural Language processing, Dimensionality reduction, Topic Modelling (LDA, NMF), PCA & Neural Nets. * Database Visualizations: Mysql, SqlServer, Cassandra, Hbase, ElasticSearch D3.js, DC.js, Plotly, kibana, matplotlib, ggplot, Tableau. * Others: Regular Expression, HTML, CSS, Angular 6, Logstash, Kafka, Python Flask, Git, Docker, computer vision - Open CV and understanding of Deep learning.Education Details _x000D_
+_x000D_
+Data Science Assurance Associate _x000D_
+_x000D_
+Data Science Assurance Associate - Ernst & Young LLP_x000D_
+Skill Details _x000D_
+JAVASCRIPT- Exprience - 24 months_x000D_
+jQuery- Exprience - 24 months_x000D_
+Python- Exprience - 24 monthsCompany Details _x000D_
+company - Ernst & Young LLP_x000D_
+description - Fraud Investigations and Dispute Services   Assurance_x000D_
+TECHNOLOGY ASSISTED REVIEW_x000D_
+TAR (Technology Assisted Review) assists in accelerating the review process and run analytics and generate reports._x000D_
+* Core member of a team helped in developing automated review platform tool from scratch for assisting E discovery domain, this tool implements predictive coding and topic modelling by automating reviews, resulting in reduced labor costs and time spent during the lawyers review._x000D_
+* Understand the end to end flow of the solution, doing research and development for classification models, predictive analysis and mining of the information present in text data. Worked on analyzing the outputs and precision monitoring for the entire tool._x000D_
+* TAR assists in predictive coding, topic modelling from the evidence by following EY standards. Developed the classifier models in order to identify ""red flags"" and fraud-related issues._x000D_
+_x000D_
+Tools & Technologies: Python, scikit-learn, tfidf, word2vec, doc2vec, cosine similarity, NaÃƒÆ’Ã‚Â¯ve Bayes, LDA, NMF for topic modelling, Vader and text blob for sentiment analysis. Matplot lib, Tableau dashboard for reporting._x000D_
+_x000D_
+MULTIPLE DATA SCIENCE AND ANALYTIC PROJECTS (USA CLIENTS)_x000D_
+TEXT ANALYTICS - MOTOR VEHICLE CUSTOMER REVIEW DATA * Received customer feedback survey data for past one year. Performed sentiment (Positive, Negative & Neutral) and time series analysis on customer comments across all 4 categories._x000D_
+* Created heat map of terms by survey category based on frequency of words * Extracted Positive and Negative words across all the Survey categories and plotted Word cloud._x000D_
+* Created customized tableau dashboards for effective reporting and visualizations._x000D_
+CHATBOT * Developed a user friendly chatbot for one of our Products which handle simple questions about hours of operation, reservation options and so on._x000D_
+* This chat bot serves entire product related questions. Giving overview of tool via QA platform and also give recommendation responses so that user question to build chain of relevant answer._x000D_
+* This too has intelligence to build the pipeline of questions as per user requirement and asks the relevant /recommended questions._x000D_
+_x000D_
+Tools & Technologies: Python, Natural language processing, NLTK, spacy, topic modelling, Sentiment analysis, Word Embedding, scikit-learn, JavaScript/JQuery, SqlServer_x000D_
+_x000D_
+INFORMATION GOVERNANCE_x000D_
+Organizations to make informed decisions about all of the information they store. The integrated Information Governance portfolio synthesizes intelligence across unstructured data sources and facilitates action to ensure organizations are best positioned to counter information risk._x000D_
+* Scan data from multiple sources of formats and parse different file formats, extract Meta data information, push results for indexing elastic search and created customized, interactive dashboards using kibana._x000D_
+* Preforming ROT Analysis on the data which give information of data which helps identify content that is either Redundant, Outdated, or Trivial._x000D_
+* Preforming full-text search analysis on elastic search with predefined methods which can tag as (PII) personally identifiable information (social security numbers, addresses, names, etc.) which frequently targeted during cyber-attacks._x000D_
+Tools & Technologies: Python, Flask, Elastic Search, Kibana_x000D_
+_x000D_
+FRAUD ANALYTIC PLATFORM_x000D_
+Fraud Analytics and investigative platform to review all red flag cases._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ FAP is a Fraud Analytics and investigative platform with inbuilt case manager and suite of Analytics for various ERP systems._x000D_
+* It can be used by clients to interrogate their Accounting systems for identifying the anomalies which can be indicators of fraud by running advanced analytics_x000D_
+Tools & Technologies: HTML, JavaScript, SqlServer, JQuery, CSS, Bootstrap, Node.js, D3.js, DC.js"
+22,Melissa,Rodriguez,Data Science,Melissa.Rodriguez@yahoo.com,5554963224,female,25,Junior,0,"Education Details _x000D_
+May 2013 to May 2017 B.E   UIT-RGPV_x000D_
+Data Scientist _x000D_
+_x000D_
+Data Scientist - Matelabs_x000D_
+Skill Details _x000D_
+Python- Exprience - Less than 1 year months_x000D_
+Statsmodels- Exprience - 12 months_x000D_
+AWS- Exprience - Less than 1 year months_x000D_
+Machine learning- Exprience - Less than 1 year months_x000D_
+Sklearn- Exprience - Less than 1 year months_x000D_
+Scipy- Exprience - Less than 1 year months_x000D_
+Keras- Exprience - Less than 1 year monthsCompany Details _x000D_
+company - Matelabs_x000D_
+description - ML Platform for business professionals, dummies and enthusiasts._x000D_
+60/A Koramangala 5th block,_x000D_
+Achievements/Tasks behind sukh sagar, Bengaluru,_x000D_
+India                               Developed and deployed auto preprocessing steps of machine learning mainly missing value_x000D_
+treatment, outlier detection, encoding, scaling, feature selection and dimensionality reduction._x000D_
+Deployed automated classification and regression model._x000D_
+linkedin.com/in/aditya-rathore-_x000D_
+b4600b146                           Reasearch and deployed the time series forecasting model ARIMA, SARIMAX, Holt-winter and_x000D_
+Prophet._x000D_
+Worked on meta-feature extracting problem._x000D_
+github.com/rathorology_x000D_
+Implemented a state of the art research paper on outlier detection for mixed attributes._x000D_
+company - Matelabs_x000D_
+description - "
+23,Larry,Sutton,Data Science,Larry.Sutton@hotmail.com,5553185910,male,24,Junior,0,"Areas of Interest Deep Learning, Control System Design, Programming in-Python, Electric Machinery, Web Development, Analytics Technical Activities q Hindustan Aeronautics Limited, Bangalore - For 4 weeks under the guidance of Mr. Satish, Senior Engineer in the hangar of Mirage 2000 fighter aircraft Technical Skills Programming Matlab, Python and Java, LabView, Python WebFrameWork-Django, Flask, LTSPICE-intermediate Languages and and MIPOWER-intermediate, Github (GitBash), Jupyter Notebook, Xampp, MySQL-Basics, Python Software Packages Interpreters-Anaconda, Python2, Python3, Pycharm, Java IDE-Eclipse Operating Systems Windows, Ubuntu, Debian-Kali Linux Education Details _x000D_
+January 2019 B.Tech. Electrical and Electronics Engineering  Manipal Institute of Technology_x000D_
+January 2015    DEEKSHA CENTER_x000D_
+January 2013    Little Flower Public School_x000D_
+August 2000    Manipal Academy of Higher_x000D_
+DATA SCIENCE _x000D_
+_x000D_
+DATA SCIENCE AND ELECTRICAL ENTHUSIAST_x000D_
+Skill Details _x000D_
+Data Analysis- Exprience - Less than 1 year months_x000D_
+excel- Exprience - Less than 1 year months_x000D_
+Machine Learning- Exprience - Less than 1 year months_x000D_
+mathematics- Exprience - Less than 1 year months_x000D_
+Python- Exprience - Less than 1 year months_x000D_
+Matlab- Exprience - Less than 1 year months_x000D_
+Electrical Engineering- Exprience - Less than 1 year months_x000D_
+Sql- Exprience - Less than 1 year monthsCompany Details _x000D_
+company - THEMATHCOMPANY_x000D_
+description - I am currently working with a Casino based operator(name not to be disclosed) in Macau.I need to segment the customers who visit their property based on the value the patrons bring into the company.Basically prove that the segmentation can be done in much better way than the current system which they have with proper numbers to back it up.Henceforth they can implement target marketing strategy to attract their customers who add value to the business."
+24,Lisa,Nichols,Data Science,Lisa.Nichols@hotmail.com,5556265461,male,28,Confirmed,3,"Skills ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ R ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Python ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ SAP HANA ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Tableau ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ SAP HANA SQL ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ SAP HANA PAL ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ MS SQL ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ SAP Lumira ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ C# ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Linear Programming ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Data Modelling ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Advance Analytics ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ SCM Analytics ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Retail Analytics ÃƒÂ¢Ã‚â‚¬Ã‚Â¢Social Media Analytics ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ NLP Education Details _x000D_
+January 2017 to January 2018 PGDM Business Analytics  Great Lakes Institute of Management & Illinois Institute of Technology_x000D_
+January 2013 Bachelor of Engineering Electronics and Communication Bengaluru, Karnataka New Horizon College of Engineering, Bangalore Visvesvaraya Technological University_x000D_
+Data Science Consultant _x000D_
+_x000D_
+Consultant - Deloitte USI_x000D_
+Skill Details _x000D_
+LINEAR PROGRAMMING- Exprience - 6 months_x000D_
+RETAIL- Exprience - 6 months_x000D_
+RETAIL MARKETING- Exprience - 6 months_x000D_
+SCM- Exprience - 6 months_x000D_
+SQL- Exprience - Less than 1 year months_x000D_
+Deep Learning- Exprience - Less than 1 year months_x000D_
+Machine learning- Exprience - Less than 1 year months_x000D_
+Python- Exprience - Less than 1 year months_x000D_
+R- Exprience - Less than 1 year monthsCompany Details _x000D_
+company - Deloitte USI_x000D_
+description - The project involved analysing historic deals and coming with insights to optimize future deals._x000D_
+Role: Was given raw data, carried out end to end analysis and presented insights to client._x000D_
+Key Responsibilities:_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Extract data from client systems across geographies._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Understand and build reports in tableau. Infer meaningful insights to optimize prices and find out process blockades._x000D_
+Technical Environment: R, Tableau._x000D_
+_x000D_
+Industry: Cross Industry_x000D_
+Service Area: Cross Industry - Products_x000D_
+Project Name: Handwriting recognition_x000D_
+Consultant: 3 months._x000D_
+The project involved taking handwritten images and converting them to digital text images by object detection and sentence creation._x000D_
+Role: I was developing sentence correction functionality._x000D_
+Key Responsibilities:_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Gather data large enough to capture all English words_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Train LSTM models on words._x000D_
+Technical Environment: Python._x000D_
+_x000D_
+Industry: Finance_x000D_
+Service Area: Financial Services - BI development Project Name: SWIFT_x000D_
+Consultant: 8 months._x000D_
+The project was to develop an analytics infrastructure on top of SAP S/4, it would user to view_x000D_
+financial reports to respective departments. Reporting also included forecasting expenses._x000D_
+Role: I was leading the offshore team._x000D_
+Key Responsibilities:_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Design & Develop data models for reporting._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Develop ETL for data flow_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Validate various reports._x000D_
+Technical Environment: SAP HANA, Tableau, SAP AO._x000D_
+_x000D_
+Industry: Healthcare Analytics_x000D_
+Service Area: Life Sciences - Product development Project Name: Clinical Healthcare System_x000D_
+Consultant: 2 months._x000D_
+The project was to develop an analytics infrastructure on top of Argus, it would allow users to query faster and provide advance analytics capabilities._x000D_
+Role: I was involved from design to deploy phase, performed a lot of data restructuring and built_x000D_
+models for insights._x000D_
+Key Responsibilities:_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Design & Develop data models for reporting._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Develop and deploy analytical models._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Validate various reports._x000D_
+Technical Environment: Data Modelling, SAP HANA, Tableau, NLP._x000D_
+_x000D_
+Industry: FMCG_x000D_
+Service Area: Trade & Promotion_x000D_
+Project Name: Consumption Based Planning for Flowers Foods Consultant; 8 months._x000D_
+The project involved setting up of CRM and CBP modules._x000D_
+Role: I was involved in key data decomposition activities and setting up the base for future year_x000D_
+forecast. Over the course of the project I developed various models and carried out key_x000D_
+performance improvements._x000D_
+Key Responsibilities:_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Design & Develop HANA models for decomposition._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Develop data flow for forecast._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Developed various views for reporting of Customer/Sales/Funds._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Validate various reports in BOBJ._x000D_
+Technical Environment: Data Modelling, SAP HANA, BOBJ, Time Series Forecasting._x000D_
+_x000D_
+Internal Initiative Industry: FMCG_x000D_
+Customer Segmentation and RFM analysis Consultant; 3 months._x000D_
+The initiative involved setting up of HANA-Python interface and advance analytics on Python. Over the course I had successfully segmented data into five core segments using K-means and carried out RFM analysis in Python. Also developed algorithm to categorize any new customer under the defined buckets._x000D_
+Technical Environment: Anaconda3, Python3.6, HANA SPS12_x000D_
+_x000D_
+Industry: Telecom Invoice state detection Consultant; 1 months._x000D_
+The initiative was to reduce the manual effort in verifying closed and open invoices manually, it_x000D_
+involved development to a decision tree to classify open/closed invoices. This enabled effort_x000D_
+reduction by 60%._x000D_
+Technical Environment: R, SAP PAL, SAP HANA SPS12_x000D_
+_x000D_
+Accenture Experience_x000D_
+Industry: Analytics - Cross Industry_x000D_
+In Process Analytics for SAP Senior Developer; 19 months._x000D_
+Accenture Solutions Pvt. Ltd., India_x000D_
+The project involved development of SAP analytics tool - In Process Analytics (IPA) . My role was to develop database objects and data models to provide operational insights to clients._x000D_
+Role: I have developed various Finance related KPIs and spearheaded various deployments._x000D_
+Introduced SAP Predictive analytics to reduce development time and reuse functionalities for KPIs and prepared production planning reports._x000D_
+Key Responsibilities:_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Involved in information gather phase._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Designed and implemented SAP HANA data modelling using Attribute View, Analytic View, and_x000D_
+Calculation View._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Developed various KPI's individually using complex SQL scripts in Calculation views._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Created procedures in HANA Database._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Took ownership and developed Dashboard functionality._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Involved in building data processing algorithms to be executed in R server for cluster analysis._x000D_
+Technical Environment: R, SAP HANA, T-SQL._x000D_
+Industry: Cross Industry_x000D_
+Accenture Testing Accelerator for SAP Database Developer; 21 months._x000D_
+Accenture Solutions Pvt. Ltd., India_x000D_
+Role: I have taken care of all development activities for the ATAS tool and have also completed_x000D_
+various deployments of the product._x000D_
+Apart from these activities I was also actively involved in maintenance of the database servers_x000D_
+(Production & Quality)_x000D_
+Key Responsibilities:_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Analyzing business requirements, understanding the scope, getting requirements clarified_x000D_
+interacting with business and further transform all requirements to generate attribute_x000D_
+mapping documents and reviewing mapping specification documentation_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Create / Update database objects like tables, views, stored procedures, function, and packages_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Monitored SQL Server Error Logs and Application Logs through SQL Server Agent_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Prepared Data Flow Diagrams, Entity Relationship Diagrams using UML_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Responsible for Designing, developing and Normalization of database tables_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Experience in performance tuning using SQL profiler._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Involved in QA, UAT, knowledge transfer and support activities_x000D_
+Technical Environment: SQL Server 2008/2014, Visual Studio 2010, Windows Server, Performance_x000D_
+Monitor, SQL Server Profiler, C#, PL-SQL, T-SQL."
+25,Mario,Higgins,Data Science,Mario.Higgins@gmail.com,5551229198,male,34,Senior,9,"Education Details _x000D_
+ MCA   YMCAUST,  Faridabad,  Haryana_x000D_
+Data Science internship _x000D_
+_x000D_
+_x000D_
+Skill Details _x000D_
+Data Structure- Exprience - Less than 1 year months_x000D_
+C- Exprience - Less than 1 year months_x000D_
+Data Analysis- Exprience - Less than 1 year months_x000D_
+Python- Exprience - Less than 1 year months_x000D_
+Core Java- Exprience - Less than 1 year months_x000D_
+Database Management- Exprience - Less than 1 year monthsCompany Details _x000D_
+company - Itechpower_x000D_
+description - "
+26,Heather,White,Data Science,Heather.White@gmail.com,5558378693,male,23,Junior,0,"SKILLS C Basics, IOT, Python, MATLAB, Data Science, Machine Learning, HTML, Microsoft Word, Microsoft Excel, Microsoft Powerpoint. RECOGNITION Academic Secured First place in B.Tech.Education Details _x000D_
+August 2014 to May 2018 B.Tech.  Ghatkesar, Andhra Pradesh Aurora's Scientific and Technological Institute_x000D_
+June 2012 to May 2014  Secondary Education Warangal, Telangana SR Junior College_x000D_
+Data Science _x000D_
+_x000D_
+_x000D_
+Skill Details _x000D_
+MS OFFICE- Exprience - Less than 1 year months_x000D_
+C- Exprience - Less than 1 year months_x000D_
+machine learning- Exprience - Less than 1 year months_x000D_
+data science- Exprience - Less than 1 year months_x000D_
+Matlab- Exprience - Less than 1 year monthsCompany Details _x000D_
+company - _x000D_
+description - "
+27,Patrick,Rivera,Data Science,Patrick.Rivera@yahoo.com,5556703820,male,36,Senior,11,"Skills ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Python ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Tableau ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Data Visualization ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ R Studio ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Machine Learning ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Statistics IABAC Certified Data Scientist with versatile experience over 1+ years in managing business, data science consulting and leading innovation projects, bringing business ideas to working real world solutions. Being a strong advocator of augmented era, where human capabilities are enhanced by machines, Fahed is passionate about bringing business concepts in area of machine learning, AI, robotics etc., to real life solutions.Education Details _x000D_
+January 2017 B. Tech Computer Science & Engineering Mohali, Punjab Indo Global College of Engineering_x000D_
+Data Science Consultant _x000D_
+_x000D_
+Data Science Consultant - Datamites_x000D_
+Skill Details _x000D_
+MACHINE LEARNING- Exprience - 13 months_x000D_
+PYTHON- Exprience - 24 months_x000D_
+SOLUTIONS- Exprience - 24 months_x000D_
+DATA SCIENCE- Exprience - 24 months_x000D_
+DATA VISUALIZATION- Exprience - 24 months_x000D_
+Tableau- Exprience - 24 monthsCompany Details _x000D_
+company - Datamites_x000D_
+description - ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Analyzed and processed complex data sets using advanced querying, visualization and analytics tools._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Responsible for loading, extracting and validation of client data._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Worked on manipulating, cleaning & processing data using python._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Used Tableau for data visualization._x000D_
+company - Heretic Solutions Pvt Ltd_x000D_
+description - ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Worked closely with business to identify issues and used data to propose solutions for effective decision making._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Manipulating, cleansing & processing data using Python, Excel and R._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Analyzed raw data, drawing conclusions & developing recommendations._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Used machine learning tools and statistical techniques to produce solutions to problems."
+28,Rachel,Franco,Data Science,Rachel.Franco@yahoo.com,5551946433,female,36,Senior,11,"Education Details _x000D_
+ B.Tech   Rayat and Bahra Institute of Engineering and Biotechnology_x000D_
+Data Science _x000D_
+_x000D_
+Data Science_x000D_
+Skill Details _x000D_
+Numpy- Exprience - Less than 1 year months_x000D_
+Machine Learning- Exprience - Less than 1 year months_x000D_
+Tensorflow- Exprience - Less than 1 year months_x000D_
+Scikit- Exprience - Less than 1 year months_x000D_
+Python- Exprience - Less than 1 year months_x000D_
+GCP- Exprience - Less than 1 year months_x000D_
+Pandas- Exprience - Less than 1 year months_x000D_
+Neural Network- Exprience - Less than 1 year monthsCompany Details _x000D_
+company - Wipro_x000D_
+description - Bhawana Aggarwal_x000D_
+E-Mail:bhawana.chd@gmail.com_x000D_
+Phone: 09876971076_x000D_
+VVersatile, high-energy professional targeting challenging assignments in Machine_x000D_
+PROFILE SUMMARY_x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª An IT professional with knowledge and experience of 2 years in Wipro Technologies in Machine_x000D_
+Learning, Deep Learning, Data Science, Python, Software Development._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Skilled in managing end-to-end development and software products / projects from inception, requirement_x000D_
+specs, planning, designing, implementation, configuration and documentation._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Knowledge on Python , Machine Learning, Deep Learning, data Science, Algorithms, Neural Network,_x000D_
+NLP, GCP._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Knowledge on Python Libraries like Numpy, Pandas, Seaborn , Matplotlib, Cufflinks._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Knowledge on different algorithms in Machine learning like KNN, Decision Tree, Bias variance Trade off,_x000D_
+Support vector Machine(SVM),Logistic Regression, Neural networks._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Have knowledge on unsupervised, Supervised and reinforcement data._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Programming experience in relational platforms like MySQL,Oracle._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Have knowledge on Some programming language like C++,Java._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Experience in cloud based environment like Google Cloud._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Working on different Operating System like Linux, Ubuntu, Windows._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Good interpersonal and communication skills._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Problem solving skills with the ability to think laterally, and to think with a medium term and long term_x000D_
+perspective_x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Flexibility and an open attitude to change._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Ability to create, define and own frameworks with a strong emphasis on code reusability._x000D_
+TECHNICAL SKILLS_x000D_
+Programming Languages Python, C_x000D_
+Libraries Seaborn, Numpy, Pandas, Cufflinks, Matplotlib_x000D_
+Algorithms_x000D_
+KNN, Decision Tree, Linear regression, Logistic Regression, Neural Networks, K means clustering,_x000D_
+Tensorflow, SVM_x000D_
+Databases SQL, Oracle_x000D_
+Operating Systems Linux, Window_x000D_
+Development Environments NetBeans, Notebooks, Sublime_x000D_
+Ticketing tools Service Now, Remedy_x000D_
+Education_x000D_
+UG Education:_x000D_
+B.Tech (Computer Science) from Rayat and Bahra Institute of Engineering and Biotechnology passed with 78.4%in_x000D_
+2016._x000D_
+Schooling:_x000D_
+XII in 2012 from Moti Ram Arya Sr. Secondary School(Passed with 78.4%)_x000D_
+X in 2010 from Valley Public School (Passed with 9.4 CGPA)_x000D_
+WORK EXPERINCE_x000D_
+Title : Wipro Neural Intelligence Platform_x000D_
+Team Size : 5_x000D_
+Brief: WiproÃƒÂ¢Ã‚â‚¬Ã‚â„¢s Neural Intelligence Platform harnesses the power of automation and artificial intelligence_x000D_
+technologiesÃƒÂ¢Ã‚â‚¬Ã‚â€natural language processing (NLP), cognitive, machine learning, and analytics. The platform_x000D_
+comprises three layers: a data engagement platform that can easily access and manage multiple structured and_x000D_
+unstructured data sources; an ÃƒÂ¢Ã‚â‚¬Ã‚Å“intent assessment and reasoningÃƒÂ¢Ã‚â‚¬Ã‚Â engine that includes sentiment and predictive_x000D_
+analytics; and a deep machine learning engine that can sense, act, and learn over time. The project entailed_x000D_
+automating responses to user queries at the earliest. The Monster Bot using the power of Deep Machine Learning,_x000D_
+NLP to handle such queries. User can see the how their queries can be answered quickly like allL1 activities can be_x000D_
+eliminated._x000D_
+Entity Extractor -> This involves text extraction and NLP for fetching out important information from the text like_x000D_
+dates, names, places, contact numbers etc. This involves Regex, Bluemix NLU apiÃƒÂ¢Ã‚â‚¬Ã‚â„¢s and machine learning using_x000D_
+Tensor flow for further learning of new entities._x000D_
+Classifier ->This involves the classifications of classes, training of dataset and predicting the output using the SKLearn_x000D_
+classifier (MNB, SVM, SGD as Classifier) and SGD for the optimization to map the user queries with the best_x000D_
+suited response and make the system efficient._x000D_
+NER: A Deep Learning NER Model is trained to extract the entities from the text. Entities like Roles, Skills,_x000D_
+Organizations can be extracted from raw text. RNN(LSTM) Bidirectional model is trained for extracting such entities_x000D_
+using Keras TensorFlow framework._x000D_
+OTHER PROJECTS_x000D_
+Title : Diabetes Detection_x000D_
+Brief : Developed the software which can detect whether the person is suffering from Diabetes or not and got the third_x000D_
+prize in it._x000D_
+TRAINING AND CERTIFICATIONS_x000D_
+Title: Python Training, Machine Learning, Data Science, Deep Learning_x000D_
+Organization: Udemy, Coursera (Machine Learning, Deep Learning)_x000D_
+Personal Profile_x000D_
+FatherÃƒÂ¢Ã‚â‚¬Ã‚â„¢s Name :Mr. Tirlok Aggarwal_x000D_
+Language Known : English & Hindi_x000D_
+Marital Status :Single_x000D_
+Date of Birth(Gender):1993-12-20(YYYY-MM-DD) (F)_x000D_
+company - Wipro_x000D_
+description - Developing programs in Python._x000D_
+company - Wipro_x000D_
+description - Title : Wipro Neural Intelligence Platform_x000D_
+Team Size : 5_x000D_
+Brief: WiproÃƒÂ¢Ã‚â‚¬Ã‚â„¢s Neural Intelligence Platform harnesses the power of automation and artificial intelligence_x000D_
+technologiesÃƒÂ¢Ã‚â‚¬Ã‚â€natural language processing (NLP), cognitive, machine learning, and analytics. The platform_x000D_
+comprises three layers: a data engagement platform that can easily access and manage multiple structured and_x000D_
+unstructured data sources; an ÃƒÂ¢Ã‚â‚¬Ã‚Å“intent assessment and reasoningÃƒÂ¢Ã‚â‚¬Ã‚Â engine that includes sentiment and predictive_x000D_
+analytics; and a deep machine learning engine that can sense, act, and learn over time. The project entailed_x000D_
+automating responses to user queries at the earliest. The Monster Bot using the power of Deep Machine Learning,_x000D_
+NLP to handle such queries. User can see the how their queries can be answered quickly like allL1 activities can be_x000D_
+eliminated._x000D_
+Entity Extractor -> This involves text extraction and NLP for fetching out important information from the text like_x000D_
+dates, names, places, contact numbers etc. This involves Regex, Bluemix NLU apiÃƒÂ¢Ã‚â‚¬Ã‚â„¢s and machine learning using_x000D_
+Tensor flow for further learning of new entities._x000D_
+Classifier ->This involves the classifications of classes, training of dataset and predicting the output using the SKLearn_x000D_
+classifier (MNB, SVM, SGD as Classifier) and SGD for the optimization to map the user queries with the best_x000D_
+suited response and make the system efficient._x000D_
+NER: A Deep Learning NER Model is trained to extract the entities from the text. Entities like Roles, Skills,_x000D_
+Organizations can be extracted from raw text. RNN(LSTM) Bidirectional model is trained for extracting such entities_x000D_
+using Keras TensorFlow framework._x000D_
+company - Wipro Technologies_x000D_
+description - An IT professional with knowledge and experience of 2 years in Wipro Technologies in Machine_x000D_
+Learning, Deep Learning, Data Science, Python, Software Development._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Skilled in managing end-to-end development and software products / projects from inception, requirement_x000D_
+specs, planning, designing, implementation, configuration and documentation._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Knowledge on Python , Machine Learning, Deep Learning, data Science, Algorithms, Neural Network,_x000D_
+NLP, GCP._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Knowledge on Python Libraries like Numpy, Pandas, Seaborn , Matplotlib, Cufflinks._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Knowledge on different algorithms in Machine learning like KNN, Decision Tree, Bias variance Trade off,_x000D_
+Support vector Machine(SVM),Logistic Regression, Neural networks._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Have knowledge on unsupervised, Supervised and reinforcement data._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Programming experience in relational platforms like MySQL,Oracle._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Have knowledge on Some programming language like C++,Java._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Experience in cloud based environment like Google Cloud._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Working on different Operating System like Linux, Ubuntu, Windows._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Good interpersonal and communication skills._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Problem solving skills with the ability to think laterally, and to think with a medium term and long term_x000D_
+perspective_x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Flexibility and an open attitude to change._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Ability to create, define and own frameworks with a strong emphasis on code reusability."
+29,Rachel,Hernandez,Data Science,Rachel.Hernandez@gmail.com,5554461715,male,34,Senior,9,"Personal Skills ÃƒÂ¢Ã‚Å¾Ã‚Â¢ Ability to quickly grasp technical aspects and willingness to learn ÃƒÂ¢Ã‚Å¾Ã‚Â¢ High energy levels & Result oriented. Education Details _x000D_
+January 2018 Master of Engineering Computer Technology & Application Bhopal, Madhya Pradesh Truba Institute of Engineering & Information Technology_x000D_
+January 2010 B.E. computer science Bhopal, Madhya Pradesh RKDF Institute of Science and Technology College of Engineering_x000D_
+January 2006 Polytechnic Information Technology Vidisha, Madhya Pradesh SATI Engineering College in Vidisha_x000D_
+January 2003 M.tech Thesis Detail  BMCH School in Ganj basoda_x000D_
+Data science _x000D_
+_x000D_
+I have six month experience in Data Science. Key Skills: - Experience in Machine Learning, Deep Leaning, NLP, Python, SQL, Web Scraping Good knowledge in computer subjects and ability to update_x000D_
+Skill Details _x000D_
+Experience in Machine Learning, Deep Learning, NLP, Python, SQL, Web Crawling, HTML,CSS.- Exprience - Less than 1 year monthsCompany Details _x000D_
+company - RNT.AI Technology Solution_x000D_
+description - Text classification using Machine learning Algorithms with python._x000D_
+Practical knowledge of Deep learning algorithms such as Ãƒâ€šÃ‚Â Recurrent Neural Networks(RNN)._x000D_
+Develop custom data models and algorithms to apply to dataset_x000D_
+Experience with Python packages like Pandas, Scikit-learn, Tensor Flow, Numpy, Matplotliv, NLTK._x000D_
+Comfort with SQL, Ãƒâ€šÃ‚Â MYSQL_x000D_
+Sentiment analysis._x000D_
+Ãƒâ€šÃ‚Â Apply leave Dataset using classification technique like Tf--idf , LSA with cosine similarity using Machine learning Algorithms._x000D_
+Web crawling using Selenium web driver and Beautiful Soup with python._x000D_
+company - Life Insurance Corporation of India Bhopal_x000D_
+description - ÃƒÆ’Ã‚Â¼Ãƒâ€šÃ‚Â Explaining policy features and the benefits_x000D_
+ÃƒÆ’Ã‚Â¼ Updated knowledge of life insurance products and shared with customers"
+30,Russell,King,Data Science,Russell.King@gmail.com,5556091008,male,34,Senior,9,"Expertise ÃƒÂ¢Ã‚Ë†Ã‚â€™ Data and Quantitative Analysis ÃƒÂ¢Ã‚Ë†Ã‚â€™ Decision Analytics ÃƒÂ¢Ã‚Ë†Ã‚â€™ Predictive Modeling ÃƒÂ¢Ã‚Ë†Ã‚â€™ Data-Driven Personalization ÃƒÂ¢Ã‚Ë†Ã‚â€™ KPI Dashboards ÃƒÂ¢Ã‚Ë†Ã‚â€™ Big Data Queries and Interpretation ÃƒÂ¢Ã‚Ë†Ã‚â€™ Data Mining and Visualization Tools ÃƒÂ¢Ã‚Ë†Ã‚â€™ Machine Learning Algorithms ÃƒÂ¢Ã‚Ë†Ã‚â€™ Business Intelligence (BI) ÃƒÂ¢Ã‚Ë†Ã‚â€™ Research, Reports and Forecasts Education Details _x000D_
+ PGP in Data Science  Mumbai, Maharashtra Aegis School of data science & Business_x000D_
+ B.E. in Electronics & Communication Electronics & Communication Indore, Madhya Pradesh IES IPS Academy_x000D_
+Data Scientist _x000D_
+_x000D_
+Data Scientist with PR Canada_x000D_
+Skill Details _x000D_
+Algorithms- Exprience - 6 months_x000D_
+BI- Exprience - 6 months_x000D_
+Business Intelligence- Exprience - 6 months_x000D_
+Machine Learning- Exprience - 24 months_x000D_
+Visualization- Exprience - 24 months_x000D_
+spark- Exprience - 24 months_x000D_
+python- Exprience - 36 months_x000D_
+tableau- Exprience - 36 months_x000D_
+Data Analysis- Exprience - 24 monthsCompany Details _x000D_
+company - Aegis school of Data Science & Business_x000D_
+description - Mostly working on industry project for providing solution along with Teaching Appointments: Teach undergraduate and graduate-level courses in Spark and Machine Learning as an adjunct faculty member at Aegis School of Data Science, Mumbai (2017 to Present)_x000D_
+company - Aegis school of Data & Business_x000D_
+description - Data Science Intern, Nov 2015 to Jan 2016_x000D_
+_x000D_
+Furnish executive leadership team with insights, analytics, reports and recommendations enabling effective strategic planning across all business units, distribution channels and product lines._x000D_
+_x000D_
+ÃƒÂ¢Ã‚Å¾Ã‚â€ Chat Bot using AWS LEX and Tensor flow  Python_x000D_
+The goal of project creates a chat bot for an academic institution or university to handle queries related courses offered by that institute. The objective of this task is to reduce human efforts as well as reduce man made errors. Even by this companies handle their client 24x7. In this case companies are academic institutions and clients are participants or students._x000D_
+ÃƒÂ¢Ã‚Å¾Ã‚â€ Web scraping using Selenium web driver   Python_x000D_
+The task is to scrap the data from the online messaging portal in a text format and have to find the pattern form it._x000D_
+ÃƒÂ¢Ã‚Å¾Ã‚â€ Data Visualization and Data insights   Hadoop Eco System, Hive, PySpark, QlikSense_x000D_
+The goal of this project is to build a Business Solutions to a Internet Service Provider Company, like handling data which is generated per day basis, for that we have to visualize that data and find the usage pattern form it and have a generate a reports._x000D_
+ÃƒÂ¢Ã‚Å¾Ã‚â€ Image Based Fraud Detection   Microsoft Face API, PySpark, Open CV_x000D_
+The main goal of project is Recognize similarity for a face to given Database images. Face recognition is the recognizing a special face from set of different faces. Face is extracted and then compared with the database Image if that Image recognized then the person already applied for loan from somewhere else and now hiding his or her identity, this is how we are going to prevent the frauds in the initial stage itself._x000D_
+ÃƒÂ¢Ã‚Å¾Ã‚â€ Churn Analysis for Internet Service Provider   R, Python, Machine Learning, Hadoop_x000D_
+The objective is to identify the customer who is likely to churn in a given period of time; we have to pretend the customer giving incentive offers._x000D_
+ÃƒÂ¢Ã‚Å¾Ã‚â€ Sentiment Analysis   Python, NLP, Apache Spark service in IBM Bluemix._x000D_
+This project is highly emphasis on tweets from Twitter data were taken for mobile networks service provider to do a sentiment analysis and analyze whether the expressed opinion was positive, negative or neutral, capture the emotions of the tweets and comparative analysis._x000D_
+_x000D_
+Quantifiable Results:_x000D_
+ÃƒÂ¢Ã‚Ë†Ã‚â€™ Mentored 7-12 Data Science Enthusiast each year that have all since gone on to graduate school in Data Science and Business Analytics._x000D_
+ÃƒÂ¢Ã‚Ë†Ã‚â€™ Reviewed and evaluated 20-40 Research Papers on Data Science for one of the largest Data Science Conference called Data Science Congress by Aegis School of Business Mumbai._x000D_
+ÃƒÂ¢Ã‚Ë†Ã‚â€™ Heading a solution providing organization called Data Science Delivered into Aegis school of Data Science Mumbai and managed 4-5 live projects using Data Science techniques._x000D_
+ÃƒÂ¢Ã‚Ë†Ã‚â€™ Working for some social cause with the help of Data Science for Social Goods Committee, where our team developed a product called ""Let's find a missing Child"" for helping society._x000D_
+company - IBM India pvt ltd_x000D_
+description - Mostly worked on blumix and IBM Watson for Data science."
+31,Eric,Mendez,Data Science,Eric.Mendez@hotmail.com,5555550988,female,35,Senior,10,"Skills * Programming Languages: Python (pandas, numpy, scipy, scikit-learn, matplotlib), Sql, Java, JavaScript/JQuery. * Machine learning: Regression, SVM, NaÃƒÆ’Ã‚Â¯ve Bayes, KNN, Random Forest, Decision Trees, Boosting techniques, Cluster Analysis, Word Embedding, Sentiment Analysis, Natural Language processing, Dimensionality reduction, Topic Modelling (LDA, NMF), PCA & Neural Nets. * Database Visualizations: Mysql, SqlServer, Cassandra, Hbase, ElasticSearch D3.js, DC.js, Plotly, kibana, matplotlib, ggplot, Tableau. * Others: Regular Expression, HTML, CSS, Angular 6, Logstash, Kafka, Python Flask, Git, Docker, computer vision - Open CV and understanding of Deep learning.Education Details _x000D_
+_x000D_
+Data Science Assurance Associate _x000D_
+_x000D_
+Data Science Assurance Associate - Ernst & Young LLP_x000D_
+Skill Details _x000D_
+JAVASCRIPT- Exprience - 24 months_x000D_
+jQuery- Exprience - 24 months_x000D_
+Python- Exprience - 24 monthsCompany Details _x000D_
+company - Ernst & Young LLP_x000D_
+description - Fraud Investigations and Dispute Services   Assurance_x000D_
+TECHNOLOGY ASSISTED REVIEW_x000D_
+TAR (Technology Assisted Review) assists in accelerating the review process and run analytics and generate reports._x000D_
+* Core member of a team helped in developing automated review platform tool from scratch for assisting E discovery domain, this tool implements predictive coding and topic modelling by automating reviews, resulting in reduced labor costs and time spent during the lawyers review._x000D_
+* Understand the end to end flow of the solution, doing research and development for classification models, predictive analysis and mining of the information present in text data. Worked on analyzing the outputs and precision monitoring for the entire tool._x000D_
+* TAR assists in predictive coding, topic modelling from the evidence by following EY standards. Developed the classifier models in order to identify ""red flags"" and fraud-related issues._x000D_
+_x000D_
+Tools & Technologies: Python, scikit-learn, tfidf, word2vec, doc2vec, cosine similarity, NaÃƒÆ’Ã‚Â¯ve Bayes, LDA, NMF for topic modelling, Vader and text blob for sentiment analysis. Matplot lib, Tableau dashboard for reporting._x000D_
+_x000D_
+MULTIPLE DATA SCIENCE AND ANALYTIC PROJECTS (USA CLIENTS)_x000D_
+TEXT ANALYTICS - MOTOR VEHICLE CUSTOMER REVIEW DATA * Received customer feedback survey data for past one year. Performed sentiment (Positive, Negative & Neutral) and time series analysis on customer comments across all 4 categories._x000D_
+* Created heat map of terms by survey category based on frequency of words * Extracted Positive and Negative words across all the Survey categories and plotted Word cloud._x000D_
+* Created customized tableau dashboards for effective reporting and visualizations._x000D_
+CHATBOT * Developed a user friendly chatbot for one of our Products which handle simple questions about hours of operation, reservation options and so on._x000D_
+* This chat bot serves entire product related questions. Giving overview of tool via QA platform and also give recommendation responses so that user question to build chain of relevant answer._x000D_
+* This too has intelligence to build the pipeline of questions as per user requirement and asks the relevant /recommended questions._x000D_
+_x000D_
+Tools & Technologies: Python, Natural language processing, NLTK, spacy, topic modelling, Sentiment analysis, Word Embedding, scikit-learn, JavaScript/JQuery, SqlServer_x000D_
+_x000D_
+INFORMATION GOVERNANCE_x000D_
+Organizations to make informed decisions about all of the information they store. The integrated Information Governance portfolio synthesizes intelligence across unstructured data sources and facilitates action to ensure organizations are best positioned to counter information risk._x000D_
+* Scan data from multiple sources of formats and parse different file formats, extract Meta data information, push results for indexing elastic search and created customized, interactive dashboards using kibana._x000D_
+* Preforming ROT Analysis on the data which give information of data which helps identify content that is either Redundant, Outdated, or Trivial._x000D_
+* Preforming full-text search analysis on elastic search with predefined methods which can tag as (PII) personally identifiable information (social security numbers, addresses, names, etc.) which frequently targeted during cyber-attacks._x000D_
+Tools & Technologies: Python, Flask, Elastic Search, Kibana_x000D_
+_x000D_
+FRAUD ANALYTIC PLATFORM_x000D_
+Fraud Analytics and investigative platform to review all red flag cases._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ FAP is a Fraud Analytics and investigative platform with inbuilt case manager and suite of Analytics for various ERP systems._x000D_
+* It can be used by clients to interrogate their Accounting systems for identifying the anomalies which can be indicators of fraud by running advanced analytics_x000D_
+Tools & Technologies: HTML, JavaScript, SqlServer, JQuery, CSS, Bootstrap, Node.js, D3.js, DC.js"
+32,Kelly,Walker,Data Science,Kelly.Walker@hotmail.com,5559392084,female,33,Senior,8,"Education Details _x000D_
+May 2013 to May 2017 B.E   UIT-RGPV_x000D_
+Data Scientist _x000D_
+_x000D_
+Data Scientist - Matelabs_x000D_
+Skill Details _x000D_
+Python- Exprience - Less than 1 year months_x000D_
+Statsmodels- Exprience - 12 months_x000D_
+AWS- Exprience - Less than 1 year months_x000D_
+Machine learning- Exprience - Less than 1 year months_x000D_
+Sklearn- Exprience - Less than 1 year months_x000D_
+Scipy- Exprience - Less than 1 year months_x000D_
+Keras- Exprience - Less than 1 year monthsCompany Details _x000D_
+company - Matelabs_x000D_
+description - ML Platform for business professionals, dummies and enthusiasts._x000D_
+60/A Koramangala 5th block,_x000D_
+Achievements/Tasks behind sukh sagar, Bengaluru,_x000D_
+India                               Developed and deployed auto preprocessing steps of machine learning mainly missing value_x000D_
+treatment, outlier detection, encoding, scaling, feature selection and dimensionality reduction._x000D_
+Deployed automated classification and regression model._x000D_
+linkedin.com/in/aditya-rathore-_x000D_
+b4600b146                           Reasearch and deployed the time series forecasting model ARIMA, SARIMAX, Holt-winter and_x000D_
+Prophet._x000D_
+Worked on meta-feature extracting problem._x000D_
+github.com/rathorology_x000D_
+Implemented a state of the art research paper on outlier detection for mixed attributes._x000D_
+company - Matelabs_x000D_
+description - "
+33,Anna,Gonzalez,Data Science,Anna.Gonzalez@yahoo.com,5555973465,male,26,Junior,1,"Areas of Interest Deep Learning, Control System Design, Programming in-Python, Electric Machinery, Web Development, Analytics Technical Activities q Hindustan Aeronautics Limited, Bangalore - For 4 weeks under the guidance of Mr. Satish, Senior Engineer in the hangar of Mirage 2000 fighter aircraft Technical Skills Programming Matlab, Python and Java, LabView, Python WebFrameWork-Django, Flask, LTSPICE-intermediate Languages and and MIPOWER-intermediate, Github (GitBash), Jupyter Notebook, Xampp, MySQL-Basics, Python Software Packages Interpreters-Anaconda, Python2, Python3, Pycharm, Java IDE-Eclipse Operating Systems Windows, Ubuntu, Debian-Kali Linux Education Details _x000D_
+January 2019 B.Tech. Electrical and Electronics Engineering  Manipal Institute of Technology_x000D_
+January 2015    DEEKSHA CENTER_x000D_
+January 2013    Little Flower Public School_x000D_
+August 2000    Manipal Academy of Higher_x000D_
+DATA SCIENCE _x000D_
+_x000D_
+DATA SCIENCE AND ELECTRICAL ENTHUSIAST_x000D_
+Skill Details _x000D_
+Data Analysis- Exprience - Less than 1 year months_x000D_
+excel- Exprience - Less than 1 year months_x000D_
+Machine Learning- Exprience - Less than 1 year months_x000D_
+mathematics- Exprience - Less than 1 year months_x000D_
+Python- Exprience - Less than 1 year months_x000D_
+Matlab- Exprience - Less than 1 year months_x000D_
+Electrical Engineering- Exprience - Less than 1 year months_x000D_
+Sql- Exprience - Less than 1 year monthsCompany Details _x000D_
+company - THEMATHCOMPANY_x000D_
+description - I am currently working with a Casino based operator(name not to be disclosed) in Macau.I need to segment the customers who visit their property based on the value the patrons bring into the company.Basically prove that the segmentation can be done in much better way than the current system which they have with proper numbers to back it up.Henceforth they can implement target marketing strategy to attract their customers who add value to the business."
+34,Julie,Smith,Data Science,Julie.Smith@yahoo.com,5559318494,male,16,Junior,0,"Skills ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ R ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Python ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ SAP HANA ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Tableau ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ SAP HANA SQL ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ SAP HANA PAL ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ MS SQL ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ SAP Lumira ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ C# ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Linear Programming ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Data Modelling ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Advance Analytics ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ SCM Analytics ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Retail Analytics ÃƒÂ¢Ã‚â‚¬Ã‚Â¢Social Media Analytics ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ NLP Education Details _x000D_
+January 2017 to January 2018 PGDM Business Analytics  Great Lakes Institute of Management & Illinois Institute of Technology_x000D_
+January 2013 Bachelor of Engineering Electronics and Communication Bengaluru, Karnataka New Horizon College of Engineering, Bangalore Visvesvaraya Technological University_x000D_
+Data Science Consultant _x000D_
+_x000D_
+Consultant - Deloitte USI_x000D_
+Skill Details _x000D_
+LINEAR PROGRAMMING- Exprience - 6 months_x000D_
+RETAIL- Exprience - 6 months_x000D_
+RETAIL MARKETING- Exprience - 6 months_x000D_
+SCM- Exprience - 6 months_x000D_
+SQL- Exprience - Less than 1 year months_x000D_
+Deep Learning- Exprience - Less than 1 year months_x000D_
+Machine learning- Exprience - Less than 1 year months_x000D_
+Python- Exprience - Less than 1 year months_x000D_
+R- Exprience - Less than 1 year monthsCompany Details _x000D_
+company - Deloitte USI_x000D_
+description - The project involved analysing historic deals and coming with insights to optimize future deals._x000D_
+Role: Was given raw data, carried out end to end analysis and presented insights to client._x000D_
+Key Responsibilities:_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Extract data from client systems across geographies._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Understand and build reports in tableau. Infer meaningful insights to optimize prices and find out process blockades._x000D_
+Technical Environment: R, Tableau._x000D_
+_x000D_
+Industry: Cross Industry_x000D_
+Service Area: Cross Industry - Products_x000D_
+Project Name: Handwriting recognition_x000D_
+Consultant: 3 months._x000D_
+The project involved taking handwritten images and converting them to digital text images by object detection and sentence creation._x000D_
+Role: I was developing sentence correction functionality._x000D_
+Key Responsibilities:_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Gather data large enough to capture all English words_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Train LSTM models on words._x000D_
+Technical Environment: Python._x000D_
+_x000D_
+Industry: Finance_x000D_
+Service Area: Financial Services - BI development Project Name: SWIFT_x000D_
+Consultant: 8 months._x000D_
+The project was to develop an analytics infrastructure on top of SAP S/4, it would user to view_x000D_
+financial reports to respective departments. Reporting also included forecasting expenses._x000D_
+Role: I was leading the offshore team._x000D_
+Key Responsibilities:_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Design & Develop data models for reporting._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Develop ETL for data flow_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Validate various reports._x000D_
+Technical Environment: SAP HANA, Tableau, SAP AO._x000D_
+_x000D_
+Industry: Healthcare Analytics_x000D_
+Service Area: Life Sciences - Product development Project Name: Clinical Healthcare System_x000D_
+Consultant: 2 months._x000D_
+The project was to develop an analytics infrastructure on top of Argus, it would allow users to query faster and provide advance analytics capabilities._x000D_
+Role: I was involved from design to deploy phase, performed a lot of data restructuring and built_x000D_
+models for insights._x000D_
+Key Responsibilities:_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Design & Develop data models for reporting._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Develop and deploy analytical models._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Validate various reports._x000D_
+Technical Environment: Data Modelling, SAP HANA, Tableau, NLP._x000D_
+_x000D_
+Industry: FMCG_x000D_
+Service Area: Trade & Promotion_x000D_
+Project Name: Consumption Based Planning for Flowers Foods Consultant; 8 months._x000D_
+The project involved setting up of CRM and CBP modules._x000D_
+Role: I was involved in key data decomposition activities and setting up the base for future year_x000D_
+forecast. Over the course of the project I developed various models and carried out key_x000D_
+performance improvements._x000D_
+Key Responsibilities:_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Design & Develop HANA models for decomposition._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Develop data flow for forecast._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Developed various views for reporting of Customer/Sales/Funds._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Validate various reports in BOBJ._x000D_
+Technical Environment: Data Modelling, SAP HANA, BOBJ, Time Series Forecasting._x000D_
+_x000D_
+Internal Initiative Industry: FMCG_x000D_
+Customer Segmentation and RFM analysis Consultant; 3 months._x000D_
+The initiative involved setting up of HANA-Python interface and advance analytics on Python. Over the course I had successfully segmented data into five core segments using K-means and carried out RFM analysis in Python. Also developed algorithm to categorize any new customer under the defined buckets._x000D_
+Technical Environment: Anaconda3, Python3.6, HANA SPS12_x000D_
+_x000D_
+Industry: Telecom Invoice state detection Consultant; 1 months._x000D_
+The initiative was to reduce the manual effort in verifying closed and open invoices manually, it_x000D_
+involved development to a decision tree to classify open/closed invoices. This enabled effort_x000D_
+reduction by 60%._x000D_
+Technical Environment: R, SAP PAL, SAP HANA SPS12_x000D_
+_x000D_
+Accenture Experience_x000D_
+Industry: Analytics - Cross Industry_x000D_
+In Process Analytics for SAP Senior Developer; 19 months._x000D_
+Accenture Solutions Pvt. Ltd., India_x000D_
+The project involved development of SAP analytics tool - In Process Analytics (IPA) . My role was to develop database objects and data models to provide operational insights to clients._x000D_
+Role: I have developed various Finance related KPIs and spearheaded various deployments._x000D_
+Introduced SAP Predictive analytics to reduce development time and reuse functionalities for KPIs and prepared production planning reports._x000D_
+Key Responsibilities:_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Involved in information gather phase._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Designed and implemented SAP HANA data modelling using Attribute View, Analytic View, and_x000D_
+Calculation View._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Developed various KPI's individually using complex SQL scripts in Calculation views._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Created procedures in HANA Database._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Took ownership and developed Dashboard functionality._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Involved in building data processing algorithms to be executed in R server for cluster analysis._x000D_
+Technical Environment: R, SAP HANA, T-SQL._x000D_
+Industry: Cross Industry_x000D_
+Accenture Testing Accelerator for SAP Database Developer; 21 months._x000D_
+Accenture Solutions Pvt. Ltd., India_x000D_
+Role: I have taken care of all development activities for the ATAS tool and have also completed_x000D_
+various deployments of the product._x000D_
+Apart from these activities I was also actively involved in maintenance of the database servers_x000D_
+(Production & Quality)_x000D_
+Key Responsibilities:_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Analyzing business requirements, understanding the scope, getting requirements clarified_x000D_
+interacting with business and further transform all requirements to generate attribute_x000D_
+mapping documents and reviewing mapping specification documentation_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Create / Update database objects like tables, views, stored procedures, function, and packages_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Monitored SQL Server Error Logs and Application Logs through SQL Server Agent_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Prepared Data Flow Diagrams, Entity Relationship Diagrams using UML_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Responsible for Designing, developing and Normalization of database tables_x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Experience in performance tuning using SQL profiler._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Involved in QA, UAT, knowledge transfer and support activities_x000D_
+Technical Environment: SQL Server 2008/2014, Visual Studio 2010, Windows Server, Performance_x000D_
+Monitor, SQL Server Profiler, C#, PL-SQL, T-SQL."
+35,David,Holt,Data Science,David.Holt@yahoo.com,5556461450,male,32,Senior,7,"Education Details _x000D_
+ MCA   YMCAUST,  Faridabad,  Haryana_x000D_
+Data Science internship _x000D_
+_x000D_
+_x000D_
+Skill Details _x000D_
+Data Structure- Exprience - Less than 1 year months_x000D_
+C- Exprience - Less than 1 year months_x000D_
+Data Analysis- Exprience - Less than 1 year months_x000D_
+Python- Exprience - Less than 1 year months_x000D_
+Core Java- Exprience - Less than 1 year months_x000D_
+Database Management- Exprience - Less than 1 year monthsCompany Details _x000D_
+company - Itechpower_x000D_
+description - "
+36,Richard,Curry,Data Science,Richard.Curry@yahoo.com,5553177491,female,32,Senior,7,"SKILLS C Basics, IOT, Python, MATLAB, Data Science, Machine Learning, HTML, Microsoft Word, Microsoft Excel, Microsoft Powerpoint. RECOGNITION Academic Secured First place in B.Tech.Education Details _x000D_
+August 2014 to May 2018 B.Tech.  Ghatkesar, Andhra Pradesh Aurora's Scientific and Technological Institute_x000D_
+June 2012 to May 2014  Secondary Education Warangal, Telangana SR Junior College_x000D_
+Data Science _x000D_
+_x000D_
+_x000D_
+Skill Details _x000D_
+MS OFFICE- Exprience - Less than 1 year months_x000D_
+C- Exprience - Less than 1 year months_x000D_
+machine learning- Exprience - Less than 1 year months_x000D_
+data science- Exprience - Less than 1 year months_x000D_
+Matlab- Exprience - Less than 1 year monthsCompany Details _x000D_
+company - _x000D_
+description - "
+37,Debra,Tran,Data Science,Debra.Tran@hotmail.com,5552436710,female,26,Junior,1,"Skills ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Python ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Tableau ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Data Visualization ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ R Studio ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Machine Learning ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Statistics IABAC Certified Data Scientist with versatile experience over 1+ years in managing business, data science consulting and leading innovation projects, bringing business ideas to working real world solutions. Being a strong advocator of augmented era, where human capabilities are enhanced by machines, Fahed is passionate about bringing business concepts in area of machine learning, AI, robotics etc., to real life solutions.Education Details _x000D_
+January 2017 B. Tech Computer Science & Engineering Mohali, Punjab Indo Global College of Engineering_x000D_
+Data Science Consultant _x000D_
+_x000D_
+Data Science Consultant - Datamites_x000D_
+Skill Details _x000D_
+MACHINE LEARNING- Exprience - 13 months_x000D_
+PYTHON- Exprience - 24 months_x000D_
+SOLUTIONS- Exprience - 24 months_x000D_
+DATA SCIENCE- Exprience - 24 months_x000D_
+DATA VISUALIZATION- Exprience - 24 months_x000D_
+Tableau- Exprience - 24 monthsCompany Details _x000D_
+company - Datamites_x000D_
+description - ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Analyzed and processed complex data sets using advanced querying, visualization and analytics tools._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Responsible for loading, extracting and validation of client data._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Worked on manipulating, cleaning & processing data using python._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Used Tableau for data visualization._x000D_
+company - Heretic Solutions Pvt Ltd_x000D_
+description - ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Worked closely with business to identify issues and used data to propose solutions for effective decision making._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Manipulating, cleansing & processing data using Python, Excel and R._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Analyzed raw data, drawing conclusions & developing recommendations._x000D_
+ÃƒÂ¢Ã‚â‚¬Ã‚Â¢ Used machine learning tools and statistical techniques to produce solutions to problems."
+38,Amanda,Brown,Data Science,Amanda.Brown@hotmail.com,5557566976,female,31,Senior,6,"Education Details _x000D_
+ B.Tech   Rayat and Bahra Institute of Engineering and Biotechnology_x000D_
+Data Science _x000D_
+_x000D_
+Data Science_x000D_
+Skill Details _x000D_
+Numpy- Exprience - Less than 1 year months_x000D_
+Machine Learning- Exprience - Less than 1 year months_x000D_
+Tensorflow- Exprience - Less than 1 year months_x000D_
+Scikit- Exprience - Less than 1 year months_x000D_
+Python- Exprience - Less than 1 year months_x000D_
+GCP- Exprience - Less than 1 year months_x000D_
+Pandas- Exprience - Less than 1 year months_x000D_
+Neural Network- Exprience - Less than 1 year monthsCompany Details _x000D_
+company - Wipro_x000D_
+description - Bhawana Aggarwal_x000D_
+E-Mail:bhawana.chd@gmail.com_x000D_
+Phone: 09876971076_x000D_
+VVersatile, high-energy professional targeting challenging assignments in Machine_x000D_
+PROFILE SUMMARY_x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª An IT professional with knowledge and experience of 2 years in Wipro Technologies in Machine_x000D_
+Learning, Deep Learning, Data Science, Python, Software Development._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Skilled in managing end-to-end development and software products / projects from inception, requirement_x000D_
+specs, planning, designing, implementation, configuration and documentation._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Knowledge on Python , Machine Learning, Deep Learning, data Science, Algorithms, Neural Network,_x000D_
+NLP, GCP._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Knowledge on Python Libraries like Numpy, Pandas, Seaborn , Matplotlib, Cufflinks._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Knowledge on different algorithms in Machine learning like KNN, Decision Tree, Bias variance Trade off,_x000D_
+Support vector Machine(SVM),Logistic Regression, Neural networks._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Have knowledge on unsupervised, Supervised and reinforcement data._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Programming experience in relational platforms like MySQL,Oracle._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Have knowledge on Some programming language like C++,Java._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Experience in cloud based environment like Google Cloud._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Working on different Operating System like Linux, Ubuntu, Windows._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Good interpersonal and communication skills._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Problem solving skills with the ability to think laterally, and to think with a medium term and long term_x000D_
+perspective_x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Flexibility and an open attitude to change._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Ability to create, define and own frameworks with a strong emphasis on code reusability._x000D_
+TECHNICAL SKILLS_x000D_
+Programming Languages Python, C_x000D_
+Libraries Seaborn, Numpy, Pandas, Cufflinks, Matplotlib_x000D_
+Algorithms_x000D_
+KNN, Decision Tree, Linear regression, Logistic Regression, Neural Networks, K means clustering,_x000D_
+Tensorflow, SVM_x000D_
+Databases SQL, Oracle_x000D_
+Operating Systems Linux, Window_x000D_
+Development Environments NetBeans, Notebooks, Sublime_x000D_
+Ticketing tools Service Now, Remedy_x000D_
+Education_x000D_
+UG Education:_x000D_
+B.Tech (Computer Science) from Rayat and Bahra Institute of Engineering and Biotechnology passed with 78.4%in_x000D_
+2016._x000D_
+Schooling:_x000D_
+XII in 2012 from Moti Ram Arya Sr. Secondary School(Passed with 78.4%)_x000D_
+X in 2010 from Valley Public School (Passed with 9.4 CGPA)_x000D_
+WORK EXPERINCE_x000D_
+Title : Wipro Neural Intelligence Platform_x000D_
+Team Size : 5_x000D_
+Brief: WiproÃƒÂ¢Ã‚â‚¬Ã‚â„¢s Neural Intelligence Platform harnesses the power of automation and artificial intelligence_x000D_
+technologiesÃƒÂ¢Ã‚â‚¬Ã‚â€natural language processing (NLP), cognitive, machine learning, and analytics. The platform_x000D_
+comprises three layers: a data engagement platform that can easily access and manage multiple structured and_x000D_
+unstructured data sources; an ÃƒÂ¢Ã‚â‚¬Ã‚Å“intent assessment and reasoningÃƒÂ¢Ã‚â‚¬Ã‚Â engine that includes sentiment and predictive_x000D_
+analytics; and a deep machine learning engine that can sense, act, and learn over time. The project entailed_x000D_
+automating responses to user queries at the earliest. The Monster Bot using the power of Deep Machine Learning,_x000D_
+NLP to handle such queries. User can see the how their queries can be answered quickly like allL1 activities can be_x000D_
+eliminated._x000D_
+Entity Extractor -> This involves text extraction and NLP for fetching out important information from the text like_x000D_
+dates, names, places, contact numbers etc. This involves Regex, Bluemix NLU apiÃƒÂ¢Ã‚â‚¬Ã‚â„¢s and machine learning using_x000D_
+Tensor flow for further learning of new entities._x000D_
+Classifier ->This involves the classifications of classes, training of dataset and predicting the output using the SKLearn_x000D_
+classifier (MNB, SVM, SGD as Classifier) and SGD for the optimization to map the user queries with the best_x000D_
+suited response and make the system efficient._x000D_
+NER: A Deep Learning NER Model is trained to extract the entities from the text. Entities like Roles, Skills,_x000D_
+Organizations can be extracted from raw text. RNN(LSTM) Bidirectional model is trained for extracting such entities_x000D_
+using Keras TensorFlow framework._x000D_
+OTHER PROJECTS_x000D_
+Title : Diabetes Detection_x000D_
+Brief : Developed the software which can detect whether the person is suffering from Diabetes or not and got the third_x000D_
+prize in it._x000D_
+TRAINING AND CERTIFICATIONS_x000D_
+Title: Python Training, Machine Learning, Data Science, Deep Learning_x000D_
+Organization: Udemy, Coursera (Machine Learning, Deep Learning)_x000D_
+Personal Profile_x000D_
+FatherÃƒÂ¢Ã‚â‚¬Ã‚â„¢s Name :Mr. Tirlok Aggarwal_x000D_
+Language Known : English & Hindi_x000D_
+Marital Status :Single_x000D_
+Date of Birth(Gender):1993-12-20(YYYY-MM-DD) (F)_x000D_
+company - Wipro_x000D_
+description - Developing programs in Python._x000D_
+company - Wipro_x000D_
+description - Title : Wipro Neural Intelligence Platform_x000D_
+Team Size : 5_x000D_
+Brief: WiproÃƒÂ¢Ã‚â‚¬Ã‚â„¢s Neural Intelligence Platform harnesses the power of automation and artificial intelligence_x000D_
+technologiesÃƒÂ¢Ã‚â‚¬Ã‚â€natural language processing (NLP), cognitive, machine learning, and analytics. The platform_x000D_
+comprises three layers: a data engagement platform that can easily access and manage multiple structured and_x000D_
+unstructured data sources; an ÃƒÂ¢Ã‚â‚¬Ã‚Å“intent assessment and reasoningÃƒÂ¢Ã‚â‚¬Ã‚Â engine that includes sentiment and predictive_x000D_
+analytics; and a deep machine learning engine that can sense, act, and learn over time. The project entailed_x000D_
+automating responses to user queries at the earliest. The Monster Bot using the power of Deep Machine Learning,_x000D_
+NLP to handle such queries. User can see the how their queries can be answered quickly like allL1 activities can be_x000D_
+eliminated._x000D_
+Entity Extractor -> This involves text extraction and NLP for fetching out important information from the text like_x000D_
+dates, names, places, contact numbers etc. This involves Regex, Bluemix NLU apiÃƒÂ¢Ã‚â‚¬Ã‚â„¢s and machine learning using_x000D_
+Tensor flow for further learning of new entities._x000D_
+Classifier ->This involves the classifications of classes, training of dataset and predicting the output using the SKLearn_x000D_
+classifier (MNB, SVM, SGD as Classifier) and SGD for the optimization to map the user queries with the best_x000D_
+suited response and make the system efficient._x000D_
+NER: A Deep Learning NER Model is trained to extract the entities from the text. Entities like Roles, Skills,_x000D_
+Organizations can be extracted from raw text. RNN(LSTM) Bidirectional model is trained for extracting such entities_x000D_
+using Keras TensorFlow framework._x000D_
+company - Wipro Technologies_x000D_
+description - An IT professional with knowledge and experience of 2 years in Wipro Technologies in Machine_x000D_
+Learning, Deep Learning, Data Science, Python, Software Development._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Skilled in managing end-to-end development and software products / projects from inception, requirement_x000D_
+specs, planning, designing, implementation, configuration and documentation._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Knowledge on Python , Machine Learning, Deep Learning, data Science, Algorithms, Neural Network,_x000D_
+NLP, GCP._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Knowledge on Python Libraries like Numpy, Pandas, Seaborn , Matplotlib, Cufflinks._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Knowledge on different algorithms in Machine learning like KNN, Decision Tree, Bias variance Trade off,_x000D_
+Support vector Machine(SVM),Logistic Regression, Neural networks._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Have knowledge on unsupervised, Supervised and reinforcement data._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Programming experience in relational platforms like MySQL,Oracle._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Have knowledge on Some programming language like C++,Java._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Experience in cloud based environment like Google Cloud._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Working on different Operating System like Linux, Ubuntu, Windows._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Good interpersonal and communication skills._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Problem solving skills with the ability to think laterally, and to think with a medium term and long term_x000D_
+perspective_x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Flexibility and an open attitude to change._x000D_
+ÃƒÂ¢Ã‚â€“Ã‚Âª Ability to create, define and own frameworks with a strong emphasis on code reusability."
+39,Brandon,Wu,Data Science,Brandon.Wu@hotmail.com,5550720145,male,23,Junior,0,"Personal Skills ÃƒÂ¢Ã‚Å¾Ã‚Â¢ Ability to quickly grasp technical aspects and willingness to learn ÃƒÂ¢Ã‚Å¾Ã‚Â¢ High energy levels & Result oriented. Education Details _x000D_
+January 2018 Master of Engineering Computer Technology & Application Bhopal, Madhya Pradesh Truba Institute of Engineering & Information Technology_x000D_
+January 2010 B.E. computer science Bhopal, Madhya Pradesh RKDF Institute of Science and Technology College of Engineering_x000D_
+January 2006 Polytechnic Information Technology Vidisha, Madhya Pradesh SATI Engineering College in Vidisha_x000D_
+January 2003 M.tech Thesis Detail  BMCH School in Ganj basoda_x000D_
+Data science _x000D_
+_x000D_
+I have six month experience in Data Science. Key Skills: - Experience in Machine Learning, Deep Leaning, NLP, Python, SQL, Web Scraping Good knowledge in computer subjects and ability to update_x000D_
+Skill Details _x000D_
+Experience in Machine Learning, Deep Learning, NLP, Python, SQL, Web Crawling, HTML,CSS.- Exprience - Less than 1 year monthsCompany Details _x000D_
+company - RNT.AI Technology Solution_x000D_
+description - Text classification using Machine learning Algorithms with python._x000D_
+Practical knowledge of Deep learning algorithms such as Ãƒâ€šÃ‚Â Recurrent Neural Networks(RNN)._x000D_
+Develop custom data models and algorithms to apply to dataset_x000D_
+Experience with Python packages like Pandas, Scikit-learn, Tensor Flow, Numpy, Matplotliv, NLTK._x000D_
+Comfort with SQL, Ãƒâ€šÃ‚Â MYSQL_x000D_
+Sentiment analysis._x000D_
+Ãƒâ€šÃ‚Â Apply leave Dataset using classification technique like Tf--idf , LSA with cosine similarity using Machine learning Algorithms._x000D_
+Web crawling using Selenium web driver and Beautiful Soup with python._x000D_
+company - Life Insurance Corporation of India Bhopal_x000D_
+description - ÃƒÆ’Ã‚Â¼Ãƒâ€šÃ‚Â Explaining policy features and the benefits_x000D_
+ÃƒÆ’Ã‚Â¼ Updated knowledge of life insurance products and shared with customers"
+40,Randy,Salazar,Data Science,Randy.Salazar@gmail.com,5554792839,female,22,Junior,0,"Expertise ÃƒÂ¢Ã‚Ë†Ã‚â€™ Data and Quantitative Analysis ÃƒÂ¢Ã‚Ë†Ã‚â€™ Decision Analytics ÃƒÂ¢Ã‚Ë†Ã‚â€™ Predictive Modeling ÃƒÂ¢Ã‚Ë†Ã‚â€™ Data-Driven Personalization ÃƒÂ¢Ã‚Ë†Ã‚â€™ KPI Dashboards ÃƒÂ¢Ã‚Ë†Ã‚â€™ Big Data Queries and Interpretation ÃƒÂ¢Ã‚Ë†Ã‚â€™ Data Mining and Visualization Tools ÃƒÂ¢Ã‚Ë†Ã‚â€™ Machine Learning Algorithms ÃƒÂ¢Ã‚Ë†Ã‚â€™ Business Intelligence (BI) ÃƒÂ¢Ã‚Ë†Ã‚â€™ Research, Reports and Forecasts Education Details _x000D_
+ PGP in Data Science  Mumbai, Maharashtra Aegis School of data science & Business_x000D_
+ B.E. in Electronics & Communication Electronics & Communication Indore, Madhya Pradesh IES IPS Academy_x000D_
+Data Scientist _x000D_
+_x000D_
+Data Scientist with PR Canada_x000D_
+Skill Details _x000D_
+Algorithms- Exprience - 6 months_x000D_
+BI- Exprience - 6 months_x000D_
+Business Intelligence- Exprience - 6 months_x000D_
+Machine Learning- Exprience - 24 months_x000D_
+Visualization- Exprience - 24 months_x000D_
+spark- Exprience - 24 months_x000D_
+python- Exprience - 36 months_x000D_
+tableau- Exprience - 36 months_x000D_
+Data Analysis- Exprience - 24 monthsCompany Details _x000D_
+company - Aegis school of Data Science & Business_x000D_
+description - Mostly working on industry project for providing solution along with Teaching Appointments: Teach undergraduate and graduate-level courses in Spark and Machine Learning as an adjunct faculty member at Aegis School of Data Science, Mumbai (2017 to Present)_x000D_
+company - Aegis school of Data & Business_x000D_
+description - Data Science Intern, Nov 2015 to Jan 2016_x000D_
+_x000D_
+Furnish executive leadership team with insights, analytics, reports and recommendations enabling effective strategic planning across all business units, distribution channels and product lines._x000D_
+_x000D_
+ÃƒÂ¢Ã‚Å¾Ã‚â€ Chat Bot using AWS LEX and Tensor flow  Python_x000D_
+The goal of project creates a chat bot for an academic institution or university to handle queries related courses offered by that institute. The objective of this task is to reduce human efforts as well as reduce man made errors. Even by this companies handle their client 24x7. In this case companies are academic institutions and clients are participants or students._x000D_
+ÃƒÂ¢Ã‚Å¾Ã‚â€ Web scraping using Selenium web driver   Python_x000D_
+The task is to scrap the data from the online messaging portal in a text format and have to find the pattern form it._x000D_
+ÃƒÂ¢Ã‚Å¾Ã‚â€ Data Visualization and Data insights   Hadoop Eco System, Hive, PySpark, QlikSense_x000D_
+The goal of this project is to build a Business Solutions to a Internet Service Provider Company, like handling data which is generated per day basis, for that we have to visualize that data and find the usage pattern form it and have a generate a reports._x000D_
+ÃƒÂ¢Ã‚Å¾Ã‚â€ Image Based Fraud Detection   Microsoft Face API, PySpark, Open CV_x000D_
+The main goal of project is Recognize similarity for a face to given Database images. Face recognition is the recognizing a special face from set of different faces. Face is extracted and then compared with the database Image if that Image recognized then the person already applied for loan from somewhere else and now hiding his or her identity, this is how we are going to prevent the frauds in the initial stage itself._x000D_
+ÃƒÂ¢Ã‚Å¾Ã‚â€ Churn Analysis for Internet Service Provider   R, Python, Machine Learning, Hadoop_x000D_
+The objective is to identify the customer who is likely to churn in a given period of time; we have to pretend the customer giving incentive offers._x000D_
+ÃƒÂ¢Ã‚Å¾Ã‚â€ Sentiment Analysis   Python, NLP, Apache Spark service in IBM Bluemix._x000D_
+This project is highly emphasis on tweets from Twitter data were taken for mobile networks service provider to do a sentiment analysis and analyze whether the expressed opinion was positive, negative or neutral, capture the emotions of the tweets and comparative analysis._x000D_
+_x000D_
+Quantifiable Results:_x000D_
+ÃƒÂ¢Ã‚Ë†Ã‚â€™ Mentored 7-12 Data Science Enthusiast each year that have all since gone on to graduate school in Data Science and Business Analytics._x000D_
+ÃƒÂ¢Ã‚Ë†Ã‚â€™ Reviewed and evaluated 20-40 Research Papers on Data Science for one of the largest Data Science Conference called Data Science Congress by Aegis School of Business Mumbai._x000D_
+ÃƒÂ¢Ã‚Ë†Ã‚â€™ Heading a solution providing organization called Data Science Delivered into Aegis school of Data Science Mumbai and managed 4-5 live projects using Data Science techniques._x000D_
+ÃƒÂ¢Ã‚Ë†Ã‚â€™ Working for some social cause with the help of Data Science for Social Goods Committee, where our team developed a product called ""Let's find a missing Child"" for helping society._x000D_
+company - IBM India pvt ltd_x000D_
+description - Mostly worked on blumix and IBM Watson for Data science."
+41,Ryan,Wilson,Web Designing,Ryan.Wilson@gmail.com,5558013702,male,33,Senior,8,"Technical Skills Web Technologies: Angular JS, HTML5, CSS3, SASS, Bootstrap, Jquery, Javascript. Software: Brackets, Visual Studio, Photoshop, Visual Studio Code Education Details _x000D_
+January 2015 B.E CSE Nagpur, Maharashtra G.H.Raisoni College of Engineering_x000D_
+October 2009  Photography Competition Click Nagpur, Maharashtra Maharashtra State Board_x000D_
+    College Magazine OCEAN_x000D_
+Web Designer _x000D_
+_x000D_
+Web Designer - Trust Systems and Software_x000D_
+Skill Details _x000D_
+PHOTOSHOP- Exprience - 28 months_x000D_
+BOOTSTRAP- Exprience - 6 months_x000D_
+HTML5- Exprience - 6 months_x000D_
+JAVASCRIPT- Exprience - 6 months_x000D_
+CSS3- Exprience - Less than 1 year months_x000D_
+Angular 4- Exprience - Less than 1 year monthsCompany Details _x000D_
+company - Trust Systems and Software_x000D_
+description - Projects worked on:_x000D_
+1. TrustBank-CBS_x000D_
+Project Description: TrustBank-CBS is a core banking solution by Trust Systems._x000D_
+Roles and Responsibility:_x000D_
+ÃƒÂ¢Ã‚â€”Ã‚Â Renovated complete UI to make it more modern, user-friendly, maintainable and optimised for bank use._x000D_
+ÃƒÂ¢Ã‚â€”Ã‚Â Shared the UI structure and guidelines to be incorporated, with development team of around 50_x000D_
+members._x000D_
+ÃƒÂ¢Ã‚â€”Ã‚Â Achieved the target of project completion in given time frame._x000D_
+ÃƒÂ¢Ã‚â€”Ã‚Â Made required graphics for the project in photoshop_x000D_
+_x000D_
+2. Loan Bazar (Loan Appraisal)_x000D_
+Project Description: Loan Bazar is a MVC-based application dedicated to creating and managing_x000D_
+loan applications. The goal of this application is to streamline the process of loan application and integrate with existing CBS._x000D_
+Roles and Responsibility_x000D_
+ÃƒÂ¢Ã‚â€”Ã‚Â Designed and developed modern and responsive UI of entire application and achieved the target in given time frame._x000D_
+ÃƒÂ¢Ã‚â€”Ã‚Â Made required graphics for the project in photoshop_x000D_
+3. Capital Security Bond Application_x000D_
+Project Description: Capital Security Bond Application is a MVC based application which provided an online platform to purchase gold bond_x000D_
+Roles and Responsibility:_x000D_
+ÃƒÂ¢Ã‚â€”Ã‚Â Designed and developed modern and responsive UI of entire application and achieved the target in given time frame._x000D_
+ÃƒÂ¢Ã‚â€”Ã‚Â Made required graphics for the project in photoshop_x000D_
+_x000D_
+4. SoftGST_x000D_
+Project Description: SoftGST (Web Based Application) is an ASP application to every tax_x000D_
+payers and its vendors for generating the GSTR returns on the basis of sales / purchase_x000D_
+data, additionally the application can do the reconciliation of GSTR 2 A with purchase register._x000D_
+Roles and Responsibility:_x000D_
+ÃƒÂ¢Ã‚â€”Ã‚Â Designed and developed the UI of Dashboard._x000D_
+_x000D_
+5. Trust Analytica:_x000D_
+Project Description: Trust Analytika is the mobile web app that shows bank asset, liability,_x000D_
+income, expenses._x000D_
+Roles and Responsibility:_x000D_
+ÃƒÂ¢Ã‚â€”Ã‚Â Designed and developed the landing page of the application._x000D_
+ÃƒÂ¢Ã‚â€”Ã‚Â Supported the developers in UI implementation_x000D_
+_x000D_
+6. Website's:_x000D_
+Project Name:_x000D_
+1. TSR Technology Services - http://tsrtechnologyservices.com_x000D_
+2. Vidarbha Merchants Urban Co-Op Bank - http://vmcbank.com_x000D_
+3. GISSS - http://gisss.co.in_x000D_
+4. Softtrust USA - http://softtrustusa.com_x000D_
+Roles and Responsibility_x000D_
+ÃƒÂ¢Ã‚â€”Ã‚Â Communicated with clients to understand their requirement_x000D_
+ÃƒÂ¢Ã‚â€”Ã‚Â Made mocks for the website_x000D_
+ÃƒÂ¢Ã‚â€”Ã‚Â Designed and developed complete website and hosted them in stipulated time._x000D_
+company - www.jalloshband.com_x000D_
+description - Project Name:_x000D_
+1. Jallosh Band - www.jalloshband.com_x000D_
+2. An Endeavor Foundation_x000D_
+Roles and Responsibility:_x000D_
+ÃƒÂ¢Ã‚â€”Ã‚Â Communicated with clients to understand their requirement_x000D_
+ÃƒÂ¢Ã‚â€”Ã‚Â Made mocks for the website_x000D_
+ÃƒÂ¢Ã‚â€”Ã‚Â Designed and developed complete website and hosted them in stipulated time._x000D_
+company - 10MagicalFingers_x000D_
+description - National and international client interaction._x000D_
+ÃƒÂ¢Ã‚â€”Ã‚Â Management of digital data"

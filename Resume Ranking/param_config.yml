@@ -1,0 +1,14 @@
+
+data:
+  path:
+    offerPath: C:\Users\wisle\Desktop\Resume Ranking\data\job_offer.csv
+    applicantsPath: C:\Users\wisle\Desktop\Resume Ranking\data\applicants.csv
+  column_name:
+    applicant_id: "Applicant Id"
+    applicant_first_name: "First Name"
+    applicant_last_name: "Last Name"
+    resume: "Resume"
+    offer_description: "Job Description" 
+
+topN:
+  N: 5  
