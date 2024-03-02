@@ -16,3 +16,8 @@ The candidate selection process of the system commences by taking input, includi
 ## Configuration
 A YAML configuration file is provided to customize the number of candidates retrieved, denoted as N. This file allows recruiters to adjust the candidate selection process without altering the codebase.
 
+## How to Run
+To run this project, execute the following command in your terminal:
+```bash
+python TopN.py
+
